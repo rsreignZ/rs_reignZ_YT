@@ -105,6 +105,7 @@ h2 { margin: 0; font: 700 28px var(--display); letter-spacing: -.3px; }
 .place .who:hover { color: var(--accent); }
 .place .score { font: 700 30px var(--display); color: var(--medal); margin-top: 6px; }
 .place .meta { font-size: 12px; color: var(--muted); }
+.podium > .empty { grid-column: 1 / -1; }
 .board { list-style: none; margin: 0; padding: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
 .board:empty { display: none; }
 .row { display: grid; grid-template-columns: 44px minmax(0, 1fr) 70px 90px; gap: 12px; align-items: center; padding: 12px 18px; border-top: 1px solid var(--line); }
