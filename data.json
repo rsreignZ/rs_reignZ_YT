@@ -1,15 +1,95 @@
 {
- "version": 1,
+ "version": 2,
  "title": "rs_reignZ",
  "channel": {
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T10:58:04.461Z",
+ "updatedAt": "2026-10-04T11:22:58.109Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
+ "activityRules": {
+  "showUp": 10,
+  "perMinute": 1
+ },
  "folderUrl": "https://drive.google.com/drive/folders/1bGz22xfuXwBMfzBqBM-1Y2cGYZ7fgmBI",
- "clips": [],
+ "featured": null,
+ "stats": {
+  "clips": 5,
+  "topClipper": null,
+  "mostActive": null
+ },
+ "clips": [
+  {
+   "id": "16C3B0TJSm3y",
+   "title": "Ball Nikaal Raha Tha",
+   "seconds": 141,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T11:06:40.852Z",
+   "vertical": true,
+   "preview": "https://drive.google.com/file/d/16C3B0TJSm3ycb7SRAF5laDLMxtHrrC3L/preview",
+   "view": "https://drive.google.com/file/d/16C3B0TJSm3ycb7SRAF5laDLMxtHrrC3L/view",
+   "download": "https://drive.usercontent.google.com/download?id=16C3B0TJSm3ycb7SRAF5laDLMxtHrrC3L&export=download",
+   "thumb": "thumbs/16C3B0TJSm3ycb7SRAF5laDLMxtHrrC3L.jpg"
+  },
+  {
+   "id": "1gxLWPrm9aoQ",
+   "title": "Tel Khatam Hogya",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T11:06:21.663Z",
+   "vertical": true,
+   "preview": "https://drive.google.com/file/d/1gxLWPrm9aoQONdpAnuLy0tG5DTZMYrAf/preview",
+   "view": "https://drive.google.com/file/d/1gxLWPrm9aoQONdpAnuLy0tG5DTZMYrAf/view",
+   "download": "https://drive.usercontent.google.com/download?id=1gxLWPrm9aoQONdpAnuLy0tG5DTZMYrAf&export=download",
+   "thumb": "thumbs/1gxLWPrm9aoQONdpAnuLy0tG5DTZMYrAf.jpg"
+  },
+  {
+   "id": "1oF9zi_lSkc3",
+   "title": "This Scene Broke Me",
+   "seconds": 143,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T11:06:12.209Z",
+   "vertical": true,
+   "preview": "https://drive.google.com/file/d/1oF9zi_lSkc3P_swNUPfN0a1gleuUKz9u/preview",
+   "view": "https://drive.google.com/file/d/1oF9zi_lSkc3P_swNUPfN0a1gleuUKz9u/view",
+   "download": "https://drive.usercontent.google.com/download?id=1oF9zi_lSkc3P_swNUPfN0a1gleuUKz9u&export=download",
+   "thumb": "thumbs/1oF9zi_lSkc3P_swNUPfN0a1gleuUKz9u.jpg"
+  },
+  {
+   "id": "1Sh7RbKmkBYa",
+   "title": "Laude Wali Behen",
+   "seconds": 69,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T11:05:46.431Z",
+   "vertical": true,
+   "preview": "https://drive.google.com/file/d/1Sh7RbKmkBYaft7E1hCIyOXpBwapUVg-x/preview",
+   "view": "https://drive.google.com/file/d/1Sh7RbKmkBYaft7E1hCIyOXpBwapUVg-x/view",
+   "download": "https://drive.usercontent.google.com/download?id=1Sh7RbKmkBYaft7E1hCIyOXpBwapUVg-x&export=download",
+   "thumb": "thumbs/1Sh7RbKmkBYaft7E1hCIyOXpBwapUVg-x.jpg"
+  },
+  {
+   "id": "1gdzKjVPomx1",
+   "title": "Lights On Or Off",
+   "seconds": 26,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T11:05:20.101Z",
+   "vertical": true,
+   "preview": "https://drive.google.com/file/d/1gdzKjVPomx1ymPcFk3_6eTmSbWU_LK7v/preview",
+   "view": "https://drive.google.com/file/d/1gdzKjVPomx1ymPcFk3_6eTmSbWU_LK7v/view",
+   "download": "https://drive.usercontent.google.com/download?id=1gdzKjVPomx1ymPcFk3_6eTmSbWU_LK7v&export=download",
+   "thumb": "thumbs/1gdzKjVPomx1ymPcFk3_6eTmSbWU_LK7v.jpg"
+  }
+ ],
+ "active": {
+  "weekStart": "2026-09-28",
+  "top": []
+ },
  "leaderboard": [],
  "months": [],
  "tournaments": [
@@ -43,7 +123,8 @@
     {
      "name": "rs_reignZ"
     }
-   ]
+   ],
+   "video": null
   }
  ],
  "accent": "#cefa86"
