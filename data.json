@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T12:07:30.243Z",
+ "updatedAt": "2026-10-04T12:36:10.049Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,9 +79,9 @@
   }
  ],
  "stats": {
-  "clips": 5,
+  "clips": 6,
   "topClipper": null,
-  "mostActive": null
+  "mostActive": "@Madhav_Khanna"
  },
  "clips": [
   {
@@ -152,10 +152,32 @@
  ],
  "active": {
   "weekStart": "2026-09-28",
-  "top": []
+  "top": [
+   {
+    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+    "name": "@Madhav_Khanna",
+    "points": 17,
+    "streams": 1,
+    "messages": 10
+   }
+  ]
  },
  "leaderboard": [],
- "months": [],
+ "months": [
+  {
+   "month": "2026-10",
+   "inProgress": true,
+   "winner": {
+    "name": "@Madhav_Khanna",
+    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+    "total": 17,
+    "clipPoints": 0,
+    "activityPoints": 17,
+    "clips": 0
+   },
+   "runnersUp": []
+  }
+ ],
  "tournaments": [
   {
    "id": "50319586-87bd-413d-a884-3265e147ab56",
