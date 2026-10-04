@@ -68,13 +68,13 @@ h2 { margin: 0; font: 700 28px var(--display); letter-spacing: -.3px; }
 
 /* favorite games */
 .games { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 230px)); gap: 18px; }
-.game { min-width: 0; }
-.game-art { position: relative; aspect-ratio: 2 / 3; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line-2); background: radial-gradient(120% 90% at 30% 10%, color-mix(in srgb, var(--accent) 22%, var(--surface-2)), var(--surface)); box-shadow: 0 14px 40px rgba(0,0,0,.35); transition: transform .2s, border-color .2s; }
-.game:hover .game-art { transform: translateY(-4px); border-color: color-mix(in srgb, var(--accent) 60%, var(--line-2)); }
-.game-art img { width: 100%; height: 100%; object-fit: cover; }
-.game-initial { position: absolute; inset: 0; display: grid; place-items: center; font: 700 72px var(--display); color: color-mix(in srgb, var(--accent) 70%, transparent); }
-.game-no { position: absolute; left: 10px; top: 10px; font: 700 12px var(--display); letter-spacing: 1px; color: var(--accent-ink); background: var(--accent); padding: 2px 8px; border-radius: 99px; }
-.game-name { display: block; margin-top: 10px; font: 600 16px var(--display); overflow-wrap: anywhere; }
+.fav { min-width: 0; }
+.fav-art { position: relative; aspect-ratio: 2 / 3; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line-2); background: radial-gradient(120% 90% at 30% 10%, color-mix(in srgb, var(--accent) 22%, var(--surface-2)), var(--surface)); box-shadow: 0 14px 40px rgba(0,0,0,.35); transition: transform .2s, border-color .2s; }
+.fav:hover .fav-art { transform: translateY(-4px); border-color: color-mix(in srgb, var(--accent) 60%, var(--line-2)); }
+.fav-art img { width: 100%; height: 100%; object-fit: cover; }
+.fav-initial { position: absolute; inset: 0; display: grid; place-items: center; font: 700 72px var(--display); color: color-mix(in srgb, var(--accent) 70%, transparent); }
+.fav-no { position: absolute; left: 10px; top: 10px; font: 700 12px var(--display); letter-spacing: 1px; color: var(--accent-ink); background: var(--accent); padding: 2px 8px; border-radius: 99px; }
+.fav-name { display: block; margin-top: 10px; font: 600 16px var(--display); overflow-wrap: anywhere; }
 
 /* chat commands */
 .commands { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
@@ -222,8 +222,8 @@ footer { max-width: 1180px; margin: 0 auto; padding: 30px 16px 48px; display: fl
   .hero.with-feature { grid-template-columns: 1fr; gap: 28px; }
   .active { grid-template-columns: 1fr; }
   .games { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
-  .game-name { font-size: 13px; }
-  .game-initial { font-size: 44px; }
+  .fav-name { font-size: 13px; }
+  .fav-initial { font-size: 44px; }
   .stats div { flex: 1 1 calc(50% - 12px); min-width: 0; }
   .podium { grid-template-columns: 1fr; }
   .place.p1 { order: -1; }

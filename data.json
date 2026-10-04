@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T11:38:27.739Z",
+ "updatedAt": "2026-10-04T11:48:15.662Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -17,6 +17,46 @@
   "id": "4GJtjYKDgGs",
   "latest": false
  },
+ "profile": {
+  "description": "",
+  "socials": [
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
+   }
+  ],
+  "games": []
+ },
+ "commands": [
+  {
+   "cmd": "!clip",
+   "example": "!clip 45 insane clutch",
+   "text": "Clips the last 60 seconds, or any length from 5 to 120 with a title. A Nakama approves it, then it shows up here.",
+   "tag": "+100 pts"
+  },
+  {
+   "cmd": "!mark",
+   "example": "!mark boss down",
+   "text": "Bookmarks the moment with a timestamp so it can be found later."
+  },
+  {
+   "cmd": "!tts",
+   "example": "!tts gg everyone",
+   "text": "Reads your message out loud on stream. No links.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!clips",
+   "example": "!clips",
+   "text": "Get the link to every saved clip."
+  },
+  {
+   "cmd": "yes / no",
+   "example": "yes",
+   "text": "Approve or drop a waiting clip. If several are waiting, add the code from the prompt: yes K7QM.",
+   "tag": "Nakama only"
+  }
+ ],
  "stats": {
   "clips": 5,
   "topClipper": null,

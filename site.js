@@ -43,11 +43,11 @@
     if (p.games?.length) {
       $('games').hidden = false; $('nav-games').hidden = false;
       $('game-list').replaceChildren(...p.games.map((g, i) => {
-        const li = el('li', 'game'), art = el('div', 'game-art');
+        const li = el('li', 'fav'), art = el('div', 'fav-art');
         if (g.art) { const img = el('img'); img.src = g.art; img.alt = ''; img.loading = 'lazy'; art.append(img); }
-        else art.append(el('span', 'game-initial', g.name.slice(0, 1).toUpperCase()));
-        art.append(el('span', 'game-no', String(i + 1).padStart(2, '0')));
-        li.append(art, el('span', 'game-name', g.name)); return li;
+        else art.append(el('span', 'fav-initial', g.name.slice(0, 1).toUpperCase()));
+        art.append(el('span', 'fav-no', String(i + 1).padStart(2, '0')));
+        li.append(art, el('span', 'fav-name', g.name)); return li;
       }));
     }
   }
@@ -158,7 +158,7 @@
       body.append(head, el('h3', null, t.title || t.game));
       if (!t.participants.length) body.append(el('p', 'upcoming', Date.parse(t.date) > Date.now() ? 'Coming up. Sign-ups in chat.' : 'Results coming soon.'));
       else {
-        const podium = el('ol', 'ranks top'); t.participants.slice(0, 3).forEach((p, i) => podium.append(rankItem(p, i)));
+        const podium = el('ol', 'ranks t-top'); t.participants.slice(0, 3).forEach((p, i) => podium.append(rankItem(p, i)));
         body.append(podium);
         if (t.participants.length > 3) {
           // Expanding swaps the top 3 for the full ranked list of everyone who played.
