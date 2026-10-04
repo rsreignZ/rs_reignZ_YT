@@ -5,13 +5,31 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T10:51:25.747Z",
+ "updatedAt": "2026-10-04T10:56:07.415Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "folderUrl": "https://drive.google.com/drive/folders/1bGz22xfuXwBMfzBqBM-1Y2cGYZ7fgmBI",
  "clips": [],
  "leaderboard": [],
  "months": [],
- "tournaments": [],
+ "tournaments": [
+  {
+   "id": "50319586-87bd-413d-a884-3265e147ab56",
+   "title": "Clash Royal Tournament 2025",
+   "game": "Clash Royale",
+   "date": "2025-10-31",
+   "participants": [
+    {
+     "name": "Hannibal"
+    },
+    {
+     "name": "Vansh"
+    },
+    {
+     "name": "Kartikey"
+    }
+   ]
+  }
+ ],
  "accent": "#cefa86"
 }
