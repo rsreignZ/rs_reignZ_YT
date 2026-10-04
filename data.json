@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T15:16:49.155Z",
+ "updatedAt": "2026-10-04T15:18:52.926Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,11 +79,24 @@
   }
  ],
  "stats": {
-  "clips": 9,
+  "clips": 10,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "66bff279-2ee",
+   "title": "Voice clip",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": null,
+   "createdAt": "2026-10-04T15:17:21.984Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1Adoh4a-cXeS5kI6N8kNZRSpkyLA4do7V/preview",
+   "view": "https://drive.google.com/file/d/1Adoh4a-cXeS5kI6N8kNZRSpkyLA4do7V/view",
+   "download": "https://drive.usercontent.google.com/download?id=1Adoh4a-cXeS5kI6N8kNZRSpkyLA4do7V&export=download",
+   "thumb": "thumbs/66bff279-2ee.jpg"
+  },
   {
    "id": "bc0ddcff-61e",
    "title": "Chat highlight",
@@ -208,9 +221,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 42,
+    "points": 43,
     "streams": 2,
-    "messages": 30
+    "messages": 31
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
@@ -251,9 +264,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 242,
+    "total": 243,
     "clipPoints": 200,
-    "activityPoints": 42,
+    "activityPoints": 43,
     "clips": 2
    },
    "runnersUp": [
