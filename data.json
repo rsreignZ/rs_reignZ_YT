@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T12:01:24.792Z",
+ "updatedAt": "2026-10-04T12:07:30.243Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -18,11 +18,19 @@
   "latest": false
  },
  "profile": {
-  "description": "",
+  "description": "Gamer / Game Dev !",
   "socials": [
    {
     "platform": "youtube",
     "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
+   },
+   {
+    "platform": "instagram",
+    "url": "https://www.instagram.com/rs_reignz/"
+   },
+   {
+    "platform": "discord",
+    "url": "https://discord.gg/5VSfVmeVhZ"
    }
   ],
   "games": [
@@ -31,8 +39,8 @@
     "art": "games/ce84f1b23d30.jpg"
    },
    {
-    "name": "Valorant",
-    "art": null
+    "name": "Marvel’s Spider-Man Remastered",
+    "art": "games/30a338310b46.jpg"
    },
    {
     "name": "Outlast",
