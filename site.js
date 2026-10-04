@@ -185,6 +185,14 @@
   dialog.addEventListener('click', e => { if (e.target === dialog) dialog.close(); });
   $('player-close').onclick = () => dialog.close();
 
+  // Links posted in chat look like …/#clip=<id> and open that clip straight away.
+  function openLinkedClip(d) {
+    const id = new URLSearchParams(location.hash.slice(1)).get('clip'); if (!id) return;
+    const index = d.clips.findIndex(c => c.id === id);
+    if (index < 0) { $('updated').textContent = 'That clip is still being added. Refresh in a minute.'; $('clips').scrollIntoView(); return; }
+    const card = $('clip-grid').children[index]; card?.scrollIntoView({ block: 'center' }); card?.querySelector('.thumb')?.click();
+  }
+
   async function load() {
     try {
       const r = await fetch(`data.json?v=${Date.now()}`, { cache: 'no-store' }); if (!r.ok) throw new Error();
@@ -199,6 +207,7 @@
       $('stat-top').textContent = d.stats?.topClipper || '—';
       renderProfile(d); renderFeature(d); renderClips(d); renderCommands(d); renderActive(d); renderBoard(d); renderMonthly(d); renderTournaments(d);
       $('updated').textContent = `Updated ${ago(d.updatedAt)}`;
+      openLinkedClip(d);
     } catch { $('updated').textContent = 'Could not load the latest clips. Refresh to try again.'; }
   }
   load();

@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T12:36:10.049Z",
+ "updatedAt": "2026-10-04T12:40:31.699Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,11 +79,37 @@
   }
  ],
  "stats": {
-  "clips": 6,
-  "topClipper": null,
+  "clips": 7,
+  "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "2a350b19-718",
+   "title": "Chat highlight",
+   "seconds": 60,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-04T12:37:24.461Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1TbwmDJ8IIUtX_4BkOqol7h4_08ofA9vP/preview",
+   "view": "https://drive.google.com/file/d/1TbwmDJ8IIUtX_4BkOqol7h4_08ofA9vP/view",
+   "download": "https://drive.usercontent.google.com/download?id=1TbwmDJ8IIUtX_4BkOqol7h4_08ofA9vP&export=download",
+   "thumb": "thumbs/2a350b19-718.jpg"
+  },
+  {
+   "id": "1bb01336-0b5",
+   "title": "Chat highlight",
+   "seconds": 60,
+   "by": "@rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
+   "createdAt": "2026-10-04T12:35:57.820Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1GEzxbkrDJVFos0PomEz3ybN0eiOV7Chf/preview",
+   "view": "https://drive.google.com/file/d/1GEzxbkrDJVFos0PomEz3ybN0eiOV7Chf/view",
+   "download": "https://drive.usercontent.google.com/download?id=1GEzxbkrDJVFos0PomEz3ybN0eiOV7Chf&export=download",
+   "thumb": "thumbs/1bb01336-0b5.jpg"
+  },
   {
    "id": "16C3B0TJSm3y",
    "title": "Ball Nikaal Raha Tha",
@@ -156,13 +182,28 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 17,
+    "points": 21,
     "streams": 1,
-    "messages": 10
+    "messages": 16
+   },
+   {
+    "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+    "name": "@gurimmureapah",
+    "points": 12,
+    "streams": 1,
+    "messages": 14
    }
   ]
  },
- "leaderboard": [],
+ "leaderboard": [
+  {
+   "rank": 1,
+   "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "name": "@Madhav_Khanna",
+   "clips": 1,
+   "score": 100
+  }
+ ],
  "months": [
   {
    "month": "2026-10",
@@ -170,12 +211,18 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 17,
-    "clipPoints": 0,
-    "activityPoints": 17,
-    "clips": 0
+    "total": 121,
+    "clipPoints": 100,
+    "activityPoints": 21,
+    "clips": 1
    },
-   "runnersUp": []
+   "runnersUp": [
+    {
+     "name": "@gurimmureapah",
+     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+     "total": 12
+    }
+   ]
   }
  ],
  "tournaments": [
