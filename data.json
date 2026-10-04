@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T11:48:15.662Z",
+ "updatedAt": "2026-10-04T12:01:24.792Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -25,7 +25,20 @@
     "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
    }
   ],
-  "games": []
+  "games": [
+   {
+    "name": "Sekiro",
+    "art": "games/ce84f1b23d30.jpg"
+   },
+   {
+    "name": "Valorant",
+    "art": null
+   },
+   {
+    "name": "Outlast",
+    "art": "games/d79732ff7275.jpg"
+   }
+  ]
  },
  "commands": [
   {
