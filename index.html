@@ -13,7 +13,7 @@
 <body>
 <header class="top">
   <a class="brand" href="#top"><span class="dot"></span><span id="brand">Clips</span></a>
-  <nav aria-label="Sections"><a href="#clips">Clips</a><a href="#active">Active</a><a href="#leaderboard">Leaderboard</a><a href="#monthly">Monthly</a><a href="#tournaments">Tournaments</a></nav>
+  <nav aria-label="Sections"><a href="#games" id="nav-games" hidden>Games</a><a href="#clips">Clips</a><a href="#commands">Commands</a><a href="#active">Active</a><a href="#leaderboard">Leaderboard</a><a href="#monthly">Monthly</a><a href="#tournaments">Tournaments</a></nav>
   <a class="yt" id="yt" target="_blank" rel="noopener" hidden>YouTube ↗</a>
 </header>
 
@@ -22,7 +22,8 @@
     <div class="hero-text">
       <p class="kicker">Community clips</p>
       <h1 id="title">Stream clips</h1>
-      <p class="sub">Something wild just happened? Type <kbd>!clip</kbd> in chat. Every saved clip earns <b class="pts">100</b> points, and chatting during streams earns activity points.</p>
+      <p class="sub" id="bio">Something wild just happened? Type <kbd>!clip</kbd> in chat. Every saved clip earns <b class="pts">100</b> points, and chatting during streams earns activity points.</p>
+      <ul class="socials" id="socials" aria-label="Find me on" hidden></ul>
       <dl class="stats">
         <div><dt>Clips</dt><dd id="stat-clips">0</dd></div>
         <div><dt>Most active viewer</dt><dd id="stat-active">—</dd></div>
@@ -35,9 +36,19 @@
     </figure>
   </section>
 
+  <section id="games" class="block" aria-labelledby="games-h" hidden>
+    <div class="block-head"><h2 id="games-h">Favorite games</h2></div>
+    <ol id="game-list" class="games"></ol>
+  </section>
+
   <section id="clips" class="block" aria-labelledby="clips-h">
     <div class="block-head"><h2 id="clips-h">Latest clips</h2><a id="folder" class="ghost" target="_blank" rel="noopener" hidden>Open Drive folder ↗</a></div>
     <div id="clip-grid" class="grid"></div>
+  </section>
+
+  <section id="commands" class="block" aria-labelledby="cmd-h">
+    <div class="block-head"><h2 id="cmd-h">Chat commands</h2><span class="note">Type these in the live chat</span></div>
+    <div id="command-list" class="commands"></div>
   </section>
 
   <section id="active" class="block" aria-labelledby="active-h">

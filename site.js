@@ -23,6 +23,44 @@
   const day = iso => new Date(iso + 'T12:00:00Z').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
   function empty(title, text) { const box = el('div', 'empty'); box.append(el('b', null, title), el('span', null, text)); return box; }
 
+  const ICONS = {
+    youtube: '<rect x="2" y="5" width="20" height="14" rx="4" fill="currentColor"/><path d="M10 9.2v5.6l4.8-2.8z" fill="var(--bg)"/>',
+    instagram: '<rect x="3" y="3" width="18" height="18" rx="5.5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.4" cy="6.6" r="1.3" fill="currentColor"/>',
+    discord: '<path d="M6.2 6.4C8 5.4 10 5 12 5s4 .4 5.8 1.4c1.5 2.6 2.3 5.4 2.2 8.7-1.5 1.3-3.2 2.2-4.9 2.7l-1-1.9c-.7.2-1.4.3-2.1.3s-1.4-.1-2.1-.3l-1 1.9c-1.7-.5-3.4-1.4-4.9-2.7-.1-3.3.7-6.1 2.2-8.7z" fill="currentColor"/><circle cx="9.3" cy="11.8" r="1.5" fill="var(--bg)"/><circle cx="14.7" cy="11.8" r="1.5" fill="var(--bg)"/>'
+  };
+  const LABELS = { youtube: 'YouTube', instagram: 'Instagram', discord: 'Discord' };
+  function renderProfile(d) {
+    const p = d.profile || {};
+    if (p.description) { $('bio').textContent = p.description; $('bio').classList.add('custom'); }
+    if (p.socials?.length) {
+      $('socials').hidden = false;
+      $('socials').replaceChildren(...p.socials.filter(s => ICONS[s.platform] && /^https:\/\//.test(s.url)).map(s => {
+        const li = el('li'), a = el('a', `social ${s.platform}`); a.href = s.url; a.target = '_blank'; a.rel = 'noopener me';
+        const icon = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); icon.setAttribute('viewBox', '0 0 24 24'); icon.setAttribute('aria-hidden', 'true'); icon.innerHTML = ICONS[s.platform]; // fixed markup, not data
+        a.append(icon, el('span', null, LABELS[s.platform])); li.append(a); return li;
+      }));
+    }
+    if (p.games?.length) {
+      $('games').hidden = false; $('nav-games').hidden = false;
+      $('game-list').replaceChildren(...p.games.map((g, i) => {
+        const li = el('li', 'game'), art = el('div', 'game-art');
+        if (g.art) { const img = el('img'); img.src = g.art; img.alt = ''; img.loading = 'lazy'; art.append(img); }
+        else art.append(el('span', 'game-initial', g.name.slice(0, 1).toUpperCase()));
+        art.append(el('span', 'game-no', String(i + 1).padStart(2, '0')));
+        li.append(art, el('span', 'game-name', g.name)); return li;
+      }));
+    }
+  }
+  function renderCommands(d) {
+    if (!d.commands?.length) return;
+    $('command-list').replaceChildren(...d.commands.map(c => {
+      const card = el('div', 'command'), head = el('div', 'cmd-head');
+      head.append(el('code', 'cmd', c.cmd)); if (c.tag) head.append(el('span', 'cmd-tag', c.tag));
+      const ex = el('p', 'cmd-ex'); ex.append('e.g. ', el('code', null, c.example));
+      card.append(head, el('p', 'cmd-text', c.text), ex); return card;
+    }));
+  }
+
   function renderFeature(d) {
     if (!d.featured?.id) return;
     $('feature').hidden = false; $('hero').classList.add('with-feature');
@@ -120,12 +158,15 @@
       body.append(head, el('h3', null, t.title || t.game));
       if (!t.participants.length) body.append(el('p', 'upcoming', Date.parse(t.date) > Date.now() ? 'Coming up. Sign-ups in chat.' : 'Results coming soon.'));
       else {
-        const podium = el('ol', 'ranks'); t.participants.slice(0, 3).forEach((p, i) => podium.append(rankItem(p, i)));
+        const podium = el('ol', 'ranks top'); t.participants.slice(0, 3).forEach((p, i) => podium.append(rankItem(p, i)));
         body.append(podium);
-        // Everyone who played, expandable.
-        const all = el('details', 'all'), list = el('ol', 'ranks full');
-        t.participants.forEach((p, i) => list.append(rankItem(p, i)));
-        all.append(el('summary', null, `All ${plural(t.participants.length, 'participant')}`), list); body.append(all);
+        if (t.participants.length > 3) {
+          // Expanding swaps the top 3 for the full ranked list of everyone who played.
+          const all = el('details', 'all'), list = el('ol', 'ranks full'), summary = el('summary', null, `All ${plural(t.participants.length, 'participant')}`);
+          t.participants.forEach((p, i) => list.append(rankItem(p, i)));
+          all.append(summary, list); body.append(all);
+          all.addEventListener('toggle', () => { podium.hidden = all.open; summary.textContent = all.open ? 'Show top 3 only' : `All ${plural(t.participants.length, 'participant')}`; });
+        }
       }
       card.append(body); return card;
     }));
@@ -156,7 +197,7 @@
       $('stat-clips').textContent = points(d.stats?.clips ?? d.clips.length);
       $('stat-active').textContent = d.stats?.mostActive || '—';
       $('stat-top').textContent = d.stats?.topClipper || '—';
-      renderFeature(d); renderClips(d); renderActive(d); renderBoard(d); renderMonthly(d); renderTournaments(d);
+      renderProfile(d); renderFeature(d); renderClips(d); renderCommands(d); renderActive(d); renderBoard(d); renderMonthly(d); renderTournaments(d);
       $('updated').textContent = `Updated ${ago(d.updatedAt)}`;
     } catch { $('updated').textContent = 'Could not load the latest clips. Refresh to try again.'; }
   }
