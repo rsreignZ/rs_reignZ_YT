@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T12:51:42.537Z",
+ "updatedAt": "2026-10-04T14:34:44.052Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -192,6 +192,13 @@
     "points": 12,
     "streams": 1,
     "messages": 14
+   },
+   {
+    "channelId": "UCH4iS3WPMPWsnZNAOmf8Rwg",
+    "name": "@cractooth",
+    "points": 12,
+    "streams": 1,
+    "messages": 2
    }
   ]
  },
@@ -217,6 +224,11 @@
     "clips": 1
    },
    "runnersUp": [
+    {
+     "name": "@cractooth",
+     "channelId": "UCH4iS3WPMPWsnZNAOmf8Rwg",
+     "total": 12
+    },
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
