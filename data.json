@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T11:22:58.109Z",
+ "updatedAt": "2026-10-04T11:29:30.906Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -13,7 +13,10 @@
   "perMinute": 1
  },
  "folderUrl": "https://drive.google.com/drive/folders/1bGz22xfuXwBMfzBqBM-1Y2cGYZ7fgmBI",
- "featured": null,
+ "featured": {
+  "id": "4GJtjYKDgGs",
+  "latest": false
+ },
  "stats": {
   "clips": 5,
   "topClipper": null,
