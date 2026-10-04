@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-04T15:03:58.998Z",
+ "updatedAt": "2026-10-04T15:06:02.737Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,11 +79,37 @@
   }
  ],
  "stats": {
-  "clips": 7,
+  "clips": 9,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "bc0ddcff-61e",
+   "title": "Chat highlight",
+   "seconds": 80,
+   "by": "@gurimmureapah",
+   "byChannelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+   "createdAt": "2026-10-04T15:04:41.088Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1SMKTXe8z-0BIWVyOrZvnvnG6ExW8_JmO/preview",
+   "view": "https://drive.google.com/file/d/1SMKTXe8z-0BIWVyOrZvnvnG6ExW8_JmO/view",
+   "download": "https://drive.usercontent.google.com/download?id=1SMKTXe8z-0BIWVyOrZvnvnG6ExW8_JmO&export=download",
+   "thumb": "thumbs/bc0ddcff-61e.jpg"
+  },
+  {
+   "id": "910425ff-411",
+   "title": "Chat highlight",
+   "seconds": 40,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-04T15:04:37.300Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1WkJXJ_PIsyqy7PXryb3ex7EshehX6iyL/preview",
+   "view": "https://drive.google.com/file/d/1WkJXJ_PIsyqy7PXryb3ex7EshehX6iyL/view",
+   "download": "https://drive.usercontent.google.com/download?id=1WkJXJ_PIsyqy7PXryb3ex7EshehX6iyL&export=download",
+   "thumb": "thumbs/910425ff-411.jpg"
+  },
   {
    "id": "2a350b19-718",
    "title": "Chat highlight",
@@ -182,16 +208,16 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 38,
+    "points": 39,
     "streams": 2,
-    "messages": 25
+    "messages": 26
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 24,
+    "points": 26,
     "streams": 2,
-    "messages": 16
+    "messages": 19
    },
    {
     "channelId": "UCV5FtFCgmEDgabDX8x8pazw",
@@ -207,6 +233,13 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
+   "clips": 2,
+   "score": 200
+  },
+  {
+   "rank": 2,
+   "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+   "name": "@gurimmureapah",
    "clips": 1,
    "score": 100
   }
@@ -218,16 +251,16 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 138,
-    "clipPoints": 100,
-    "activityPoints": 38,
-    "clips": 1
+    "total": 239,
+    "clipPoints": 200,
+    "activityPoints": 39,
+    "clips": 2
    },
    "runnersUp": [
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 24
+     "total": 126
     },
     {
      "name": "@Luckysharma231Live",
