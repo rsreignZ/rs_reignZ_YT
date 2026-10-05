@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T18:45:20.483Z",
+ "updatedAt": "2026-10-05T19:03:06.234Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,7 +79,7 @@
   }
  ],
  "stats": {
-  "clips": 13,
+  "clips": 14,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@gurimmureapah"
  },
@@ -267,9 +267,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 30,
+    "points": 31,
     "streams": 1,
-    "messages": 22
+    "messages": 24
    },
    {
     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
@@ -285,8 +285,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 3,
-   "score": 300
+   "clips": 4,
+   "score": 400
   },
   {
    "rank": 2,
@@ -310,10 +310,10 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 397,
-    "clipPoints": 300,
-    "activityPoints": 97,
-    "clips": 3
+    "total": 498,
+    "clipPoints": 400,
+    "activityPoints": 98,
+    "clips": 4
    },
    "runnersUp": [
     {
