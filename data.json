@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T17:47:22.874Z",
+ "updatedAt": "2026-10-05T17:49:28.332Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,6 +84,19 @@
   "mostActive": "@The-Vansh-T-T"
  },
  "clips": [
+  {
+   "id": "f9152cee-fc5",
+   "title": "done ?",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-05T17:46:52.569Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/10uEryNP5Yt0CabTIWGn8UQnk65S4Tily/preview",
+   "view": "https://drive.google.com/file/d/10uEryNP5Yt0CabTIWGn8UQnk65S4Tily/view",
+   "download": "https://drive.usercontent.google.com/download?id=10uEryNP5Yt0CabTIWGn8UQnk65S4Tily&export=download",
+   "thumb": "thumbs/f9152cee-fc5.jpg"
+  },
   {
    "id": "8a456c82-fa8",
    "title": "6-7",
@@ -247,9 +260,9 @@
    {
     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
     "name": "@The-Vansh-T-T",
-    "points": 22,
+    "points": 24,
     "streams": 1,
-    "messages": 17
+    "messages": 20
    },
    {
     "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
