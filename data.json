@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T17:25:39.125Z",
+ "updatedAt": "2026-10-05T17:37:12.484Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -81,7 +81,7 @@
  "stats": {
   "clips": 11,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": null
+  "mostActive": "@The-Vansh-T-T"
  },
  "clips": [
   {
@@ -230,7 +230,29 @@
  ],
  "active": {
   "weekStart": "2026-10-05",
-  "top": []
+  "top": [
+   {
+    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
+    "name": "@The-Vansh-T-T",
+    "points": 15,
+    "streams": 1,
+    "messages": 6
+   },
+   {
+    "channelId": "UCrtAralQu8OQXb99rP8UGvg",
+    "name": "@gameontech12",
+    "points": 13,
+    "streams": 1,
+    "messages": 5
+   },
+   {
+    "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
+    "name": "@TestingAccount-g9z",
+    "points": 13,
+    "streams": 1,
+    "messages": 4
+   }
+  ]
  },
  "leaderboard": [
   {
@@ -267,9 +289,9 @@
      "total": 129
     },
     {
-     "name": "@DareDevil-l3y",
-     "channelId": "UC7ub0hCxhATZkOqAdmJdnUQ",
-     "total": 17
+     "name": "@The-Vansh-T-T",
+     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
+     "total": 27
     }
    ]
   }
