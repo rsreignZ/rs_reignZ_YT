@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T19:03:06.234Z",
+ "updatedAt": "2026-10-05T19:05:11.264Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,6 +84,19 @@
   "mostActive": "@gurimmureapah"
  },
  "clips": [
+  {
+   "id": "d67b30b1-335",
+   "title": "frustration",
+   "seconds": 110,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-05T19:02:40.890Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1nwvmmDsv4YF-4F-ONyAKHXkONZHc_AP-/preview",
+   "view": "https://drive.google.com/file/d/1nwvmmDsv4YF-4F-ONyAKHXkONZHc_AP-/view",
+   "download": "https://drive.usercontent.google.com/download?id=1nwvmmDsv4YF-4F-ONyAKHXkONZHc_AP-&export=download",
+   "thumb": "thumbs/d67b30b1-335.jpg"
+  },
   {
    "id": "f9152cee-fc5",
    "title": "done ?",
