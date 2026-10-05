@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T17:41:07.789Z",
+ "updatedAt": "2026-10-05T17:47:22.874Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,7 +79,7 @@
   }
  ],
  "stats": {
-  "clips": 12,
+  "clips": 13,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@The-Vansh-T-T"
  },
@@ -247,21 +247,21 @@
    {
     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
     "name": "@The-Vansh-T-T",
-    "points": 18,
+    "points": 22,
     "streams": 1,
-    "messages": 10
+    "messages": 17
    },
    {
     "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
     "name": "@TestingAccount-g9z",
-    "points": 15,
+    "points": 16,
     "streams": 1,
-    "messages": 7
+    "messages": 8
    },
    {
-    "channelId": "UCrtAralQu8OQXb99rP8UGvg",
-    "name": "@gameontech12",
-    "points": 13,
+    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+    "name": "@Madhav_Khanna",
+    "points": 14,
     "streams": 1,
     "messages": 5
    }
@@ -272,8 +272,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 2,
-   "score": 200
+   "clips": 3,
+   "score": 300
   },
   {
    "rank": 2,
@@ -297,10 +297,10 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 267,
-    "clipPoints": 200,
-    "activityPoints": 67,
-    "clips": 2
+    "total": 381,
+    "clipPoints": 300,
+    "activityPoints": 81,
+    "clips": 3
    },
    "runnersUp": [
     {
@@ -311,7 +311,7 @@
     {
      "name": "@TestingAccount-g9z",
      "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
-     "total": 115
+     "total": 116
     }
    ]
   }
