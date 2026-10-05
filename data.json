@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-05T17:37:12.484Z",
+ "updatedAt": "2026-10-05T17:41:07.789Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -79,11 +79,24 @@
   }
  ],
  "stats": {
-  "clips": 11,
+  "clips": 12,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@The-Vansh-T-T"
  },
  "clips": [
+  {
+   "id": "8a456c82-fa8",
+   "title": "6-7",
+   "seconds": 67,
+   "by": "@TestingAccount-g9z",
+   "byChannelId": "UColG8TKYu5GvEKqEC4gKzrA",
+   "createdAt": "2026-10-05T17:39:54.438Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1CrM9Qxj1mHHh4uoeMOdEwtG97P57WhSN/preview",
+   "view": "https://drive.google.com/file/d/1CrM9Qxj1mHHh4uoeMOdEwtG97P57WhSN/view",
+   "download": "https://drive.usercontent.google.com/download?id=1CrM9Qxj1mHHh4uoeMOdEwtG97P57WhSN&export=download",
+   "thumb": "thumbs/8a456c82-fa8.jpg"
+  },
   {
    "id": "60e8ca44-10e",
    "title": "Voice clip",
@@ -234,9 +247,16 @@
    {
     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
     "name": "@The-Vansh-T-T",
+    "points": 18,
+    "streams": 1,
+    "messages": 10
+   },
+   {
+    "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
+    "name": "@TestingAccount-g9z",
     "points": 15,
     "streams": 1,
-    "messages": 6
+    "messages": 7
    },
    {
     "channelId": "UCrtAralQu8OQXb99rP8UGvg",
@@ -244,13 +264,6 @@
     "points": 13,
     "streams": 1,
     "messages": 5
-   },
-   {
-    "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
-    "name": "@TestingAccount-g9z",
-    "points": 13,
-    "streams": 1,
-    "messages": 4
    }
   ]
  },
@@ -266,6 +279,13 @@
    "rank": 2,
    "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
    "name": "@gurimmureapah",
+   "clips": 1,
+   "score": 100
+  },
+  {
+   "rank": 3,
+   "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
+   "name": "@TestingAccount-g9z",
    "clips": 1,
    "score": 100
   }
@@ -289,9 +309,9 @@
      "total": 129
     },
     {
-     "name": "@The-Vansh-T-T",
-     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
-     "total": 27
+     "name": "@TestingAccount-g9z",
+     "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
+     "total": 115
     }
    ]
   }
