@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T17:43:57.097Z",
+ "updatedAt": "2026-10-06T17:44:06.174Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -90,6 +90,19 @@
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "8a68b34a-f71",
+   "title": "temple run",
+   "seconds": 120,
+   "by": "@Zahwab",
+   "byChannelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+   "createdAt": "2026-10-06T17:43:14.230Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1ghHvFBDzRmR7vuTe7BXxEdCD3DCk8rra/preview",
+   "view": "https://drive.google.com/file/d/1ghHvFBDzRmR7vuTe7BXxEdCD3DCk8rra/view",
+   "download": "https://drive.usercontent.google.com/download?id=1ghHvFBDzRmR7vuTe7BXxEdCD3DCk8rra&export=download",
+   "thumb": "thumbs/8a68b34a-f71.jpg"
+  },
   {
    "id": "17afce2a-046",
    "title": "Voice clip",
