@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T16:33:06.990Z",
+ "updatedAt": "2026-10-06T16:39:36.038Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -85,7 +85,7 @@
   }
  ],
  "stats": {
-  "clips": 17,
+  "clips": 18,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@gurimmureapah"
  },
@@ -318,16 +318,16 @@
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 49,
+    "points": 53,
     "streams": 2,
-    "messages": 47
+    "messages": 51
    },
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 45,
+    "points": 47,
     "streams": 2,
-    "messages": 31
+    "messages": 33
    },
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
@@ -377,7 +377,7 @@
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 178
+     "total": 182
     },
     {
      "name": "@TestingAccount-g9z",
