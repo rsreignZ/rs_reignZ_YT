@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T16:10:51.743Z",
+ "updatedAt": "2026-10-06T16:11:01.345Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -90,6 +90,19 @@
   "mostActive": "@gurimmureapah"
  },
  "clips": [
+  {
+   "id": "9937e1a3-874",
+   "title": "Voice clip",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": null,
+   "createdAt": "2026-10-06T16:10:38.328Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1wGkyGzqPDX8ad8f5vkO5uFkc292f52lD/preview",
+   "view": "https://drive.google.com/file/d/1wGkyGzqPDX8ad8f5vkO5uFkc292f52lD/view",
+   "download": "https://drive.usercontent.google.com/download?id=1wGkyGzqPDX8ad8f5vkO5uFkc292f52lD&export=download",
+   "thumb": "thumbs/9937e1a3-874.jpg"
+  },
   {
    "id": "e10c9d17-47f",
    "title": "Voice clip",
@@ -372,7 +385,7 @@
     "name": "@gurimmureapah",
     "points": 44,
     "streams": 2,
-    "messages": 38
+    "messages": 39
    },
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
