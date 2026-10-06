@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T17:29:11.286Z",
+ "updatedAt": "2026-10-06T17:31:15.757Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -85,24 +85,11 @@
   }
  ],
  "stats": {
-  "clips": 17,
+  "clips": 15,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
-  {
-   "id": "bf0cc860-664",
-   "title": "Voice clip",
-   "seconds": 60,
-   "by": "rs_reignZ",
-   "byChannelId": null,
-   "createdAt": "2026-10-06T17:28:48.981Z",
-   "vertical": false,
-   "preview": "https://drive.google.com/file/d/1aYNxv3vAUNen8vRL4BZRPHL4niNFMg4B/preview",
-   "view": "https://drive.google.com/file/d/1aYNxv3vAUNen8vRL4BZRPHL4niNFMg4B/view",
-   "download": "https://drive.usercontent.google.com/download?id=1aYNxv3vAUNen8vRL4BZRPHL4niNFMg4B&export=download",
-   "thumb": "thumbs/bf0cc860-664.jpg"
-  },
   {
    "id": "1f410fec-72d",
    "title": "Mada mada frustration",
@@ -115,19 +102,6 @@
    "view": "https://drive.google.com/file/d/1JWi4rwV8QxcnynkmiPt8yEHjqgs188z_/view",
    "download": "https://drive.usercontent.google.com/download?id=1JWi4rwV8QxcnynkmiPt8yEHjqgs188z_&export=download",
    "thumb": "thumbs/1f410fec-72d.jpg"
-  },
-  {
-   "id": "27312c46-244",
-   "title": "Voice clip",
-   "seconds": 60,
-   "by": "rs_reignZ",
-   "byChannelId": null,
-   "createdAt": "2026-10-06T17:01:17.331Z",
-   "vertical": false,
-   "preview": "https://drive.google.com/file/d/1AAfFYeVd9r84pOQh9F43V3izd765FHfQ/preview",
-   "view": "https://drive.google.com/file/d/1AAfFYeVd9r84pOQh9F43V3izd765FHfQ/view",
-   "download": "https://drive.usercontent.google.com/download?id=1AAfFYeVd9r84pOQh9F43V3izd765FHfQ&export=download",
-   "thumb": "thumbs/27312c46-244.jpg"
   },
   {
    "id": "d67b30b1-335",
@@ -318,9 +292,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 72,
+    "points": 73,
     "streams": 2,
-    "messages": 61
+    "messages": 62
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
@@ -368,9 +342,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 639,
+    "total": 640,
     "clipPoints": 500,
-    "activityPoints": 139,
+    "activityPoints": 140,
     "clips": 5
    },
    "runnersUp": [
