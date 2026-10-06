@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T16:31:00.969Z",
+ "updatedAt": "2026-10-06T16:33:06.990Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -85,11 +85,37 @@
   }
  ],
  "stats": {
-  "clips": 24,
+  "clips": 17,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@gurimmureapah"
  },
  "clips": [
+  {
+   "id": "cf8fd13e-f59",
+   "title": "Voice clip",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": null,
+   "createdAt": "2026-10-06T16:31:27.449Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/19DBoD6EtMiHrx9i8TJiEYq98tm7H46Sc/preview",
+   "view": "https://drive.google.com/file/d/19DBoD6EtMiHrx9i8TJiEYq98tm7H46Sc/view",
+   "download": "https://drive.usercontent.google.com/download?id=19DBoD6EtMiHrx9i8TJiEYq98tm7H46Sc&export=download",
+   "thumb": "thumbs/cf8fd13e-f59.jpg"
+  },
+  {
+   "id": "f532cada-3d9",
+   "title": "Voice clip",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": null,
+   "createdAt": "2026-10-06T16:30:49.701Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/1gj2aygbO_gdSvgUysS63nH4sTR9sWpsc/preview",
+   "view": "https://drive.google.com/file/d/1gj2aygbO_gdSvgUysS63nH4sTR9sWpsc/view",
+   "download": "https://drive.usercontent.google.com/download?id=1gj2aygbO_gdSvgUysS63nH4sTR9sWpsc&export=download",
+   "thumb": "thumbs/f532cada-3d9.jpg"
+  },
   {
    "id": "ff049f78-942",
    "title": "Voice clip",
@@ -299,9 +325,9 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 43,
+    "points": 45,
     "streams": 2,
-    "messages": 29
+    "messages": 31
    },
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
