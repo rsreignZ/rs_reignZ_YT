@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-06T17:41:51.635Z",
+ "updatedAt": "2026-10-06T17:43:57.097Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -85,11 +85,24 @@
   }
  ],
  "stats": {
-  "clips": 16,
+  "clips": 17,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "17afce2a-046",
+   "title": "Voice clip",
+   "seconds": 60,
+   "by": "rs_reignZ",
+   "byChannelId": null,
+   "createdAt": "2026-10-06T17:41:40.449Z",
+   "vertical": false,
+   "preview": "https://drive.google.com/file/d/14ihnKg1OO1PBOjXtNEwtE7lDOjHoMSJ3/preview",
+   "view": "https://drive.google.com/file/d/14ihnKg1OO1PBOjXtNEwtE7lDOjHoMSJ3/view",
+   "download": "https://drive.usercontent.google.com/download?id=14ihnKg1OO1PBOjXtNEwtE7lDOjHoMSJ3&export=download",
+   "thumb": "thumbs/17afce2a-046.jpg"
+  },
   {
    "id": "1f410fec-72d",
    "title": "Mada mada frustration",
@@ -292,9 +305,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 76,
+    "points": 78,
     "streams": 2,
-    "messages": 65
+    "messages": 67
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
@@ -333,6 +346,13 @@
    "name": "@TestingAccount-g9z",
    "clips": 1,
    "score": 100
+  },
+  {
+   "rank": 4,
+   "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+   "name": "@Zahwab",
+   "clips": 1,
+   "score": 100
   }
  ],
  "months": [
@@ -342,9 +362,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 643,
+    "total": 645,
     "clipPoints": 500,
-    "activityPoints": 143,
+    "activityPoints": 145,
     "clips": 5
    },
    "runnersUp": [
@@ -354,9 +374,9 @@
      "total": 182
     },
     {
-     "name": "@TestingAccount-g9z",
-     "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
-     "total": 116
+     "name": "@Zahwab",
+     "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+     "total": 120
     }
    ]
   }
