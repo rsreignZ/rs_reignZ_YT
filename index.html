@@ -78,11 +78,7 @@
 
 <dialog id="player" aria-labelledby="player-title">
   <div class="player-head"><h3 id="player-title"></h3><button class="close" id="player-close" aria-label="Close">✕</button></div>
-  <div class="frame" id="player-box">
-    <video id="player-video" controls playsinline preload="metadata"></video>
-    <iframe id="player-frame" title="Video player" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen hidden></iframe>
-    <p class="player-msg" id="player-msg" hidden></p>
-  </div>
+  <div class="frame" id="player-box"><iframe id="player-frame" title="Video player" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
   <div class="player-foot"><p id="player-meta"></p><div class="actions"><button type="button" id="player-full" class="ghost">⛶ Full screen</button><a id="player-open" class="ghost" target="_blank" rel="noopener" hidden></a><a id="player-dl" class="btn" rel="noopener">Download ↓</a></div></div>
 </dialog>
 
