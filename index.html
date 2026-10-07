@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Stream clips</title>
 <meta name="description" content="Community clips, most active viewers, clipper leaderboard, viewer of the month and tournaments.">
 <meta name="theme-color" content="#0a0c0f">
@@ -42,7 +42,7 @@
   </section>
 
   <section id="clips" class="block" aria-labelledby="clips-h">
-    <div class="block-head"><h2 id="clips-h">Latest clips</h2><a id="folder" class="ghost" target="_blank" rel="noopener" hidden>Open Drive folder ↗</a></div>
+    <div class="block-head"><h2 id="clips-h">Latest clips</h2><span class="note">Tap to play · ↓ to download</span></div>
     <div id="clip-grid" class="grid"></div>
   </section>
 
@@ -74,12 +74,16 @@
   </section>
 </main>
 
-<footer><span id="updated">Loading…</span><span>Clips are hosted on Google Drive</span></footer>
+<footer><span id="updated">Loading…</span></footer>
 
 <dialog id="player" aria-labelledby="player-title">
   <div class="player-head"><h3 id="player-title"></h3><button class="close" id="player-close" aria-label="Close">✕</button></div>
-  <div class="frame" id="player-box"><iframe id="player-frame" title="Video player" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
-  <div class="player-foot"><p id="player-meta"></p><div class="actions"><a id="player-open" class="ghost" target="_blank" rel="noopener">Open in Drive ↗</a><a id="player-dl" class="btn" rel="noopener">Download ↓</a></div></div>
+  <div class="frame" id="player-box">
+    <video id="player-video" controls playsinline preload="metadata"></video>
+    <iframe id="player-frame" title="Video player" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen hidden></iframe>
+    <p class="player-msg" id="player-msg" hidden></p>
+  </div>
+  <div class="player-foot"><p id="player-meta"></p><div class="actions"><button type="button" id="player-full" class="ghost">⛶ Full screen</button><a id="player-open" class="ghost" target="_blank" rel="noopener" hidden></a><a id="player-dl" class="btn" rel="noopener">Download ↓</a></div></div>
 </dialog>
 
 <script src="site.js"></script>

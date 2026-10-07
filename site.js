@@ -84,7 +84,7 @@
       const thumb = el('button', 'thumb'); thumb.type = 'button'; thumb.setAttribute('aria-label', `Play “${c.title}”${len ? ', ' + len : ''}`);
       thumb.append(thumbBox(c.thumb, c.title, c.vertical), el('span', 'play', '▶'));
       if (len) thumb.append(el('span', 'len', len));
-      thumb.onclick = () => play({ title: c.title, src: c.preview, open: c.view, openLabel: 'Open in Drive ↗', download: c.download, vertical: c.vertical, meta: ['Clipped by ', el('b', null, c.by), `${len ? ' · ' + len : ''} · ${new Date(c.createdAt).toLocaleDateString()}`] });
+      thumb.onclick = () => play({ title: c.title, src: c.src, poster: c.thumb, download: c.download, vertical: c.vertical, meta: ['Clipped by ', el('b', null, c.by), `${len ? ' · ' + len : ''} · ${new Date(c.createdAt).toLocaleDateString()}`] });
       const body = el('div', 'clip-body'), by = el('p', 'by');
       by.append('✂ clipped by ', el('b', null, c.by));
       body.append(el('h3', null, c.title), by, el('p', 'when', ago(c.createdAt)));
@@ -150,7 +150,7 @@
         const v = el('button', 'thumb t-video'); v.type = 'button'; v.setAttribute('aria-label', `Watch ${t.title || t.game}`);
         const img = el('img'); img.src = `https://i.ytimg.com/vi/${encodeURIComponent(t.video)}/hqdefault.jpg`; img.alt = ''; img.loading = 'lazy';
         v.append(img, el('span', 'play', '▶'));
-        v.onclick = () => play({ title: t.title || t.game, src: ytEmbed(t.video) + '&autoplay=1', open: ytWatch(t.video), openLabel: 'Watch on YouTube ↗', meta: [`${t.game} · ${day(t.date)}`] });
+        v.onclick = () => play({ title: t.title || t.game, youtube: ytEmbed(t.video) + '&autoplay=1', open: ytWatch(t.video), openLabel: 'Watch on YouTube ↗', meta: [`${t.game} · ${day(t.date)}`] });
         card.append(v);
       }
       const body = el('div', 't-body'), head = el('div', 't-head');
@@ -172,16 +172,36 @@
     }));
   }
 
-  const dialog = $('player');
-  function play({ title, src, open, openLabel, download, vertical, meta }) {
+  // Clips play in the browser's own player (phone-friendly H.264 copies streamed straight from
+  // the file); tournament videos use YouTube's player.
+  const dialog = $('player'), video = $('player-video'), frame = $('player-frame');
+  const message = text => { $('player-msg').textContent = text; $('player-msg').hidden = false; };
+  function play({ title, src, youtube, poster, open, openLabel, download, vertical, meta }) {
     $('player-title').textContent = title; $('player-meta').replaceChildren(...meta);
     $('player-box').classList.toggle('vertical', !!vertical);
-    $('player-frame').src = src;
-    $('player-open').href = open; $('player-open').textContent = openLabel;
+    $('player-msg').hidden = true; video.hidden = !!youtube; frame.hidden = !youtube; $('player-full').hidden = !!youtube;
+    if (youtube) frame.src = youtube;
+    else {
+      video.poster = poster || '';
+      if (src) { video.src = src; dialog.showModal(); video.play().catch(() => {}); }
+      else { video.removeAttribute('src'); message('This clip is still being prepared for phones. Download it below, or check back in a few minutes.'); }
+    }
+    $('player-open').hidden = !open; if (open) { $('player-open').href = open; $('player-open').textContent = openLabel; }
     $('player-dl').hidden = !download; if (download) $('player-dl').href = download;
-    dialog.showModal();
+    if (!dialog.open) dialog.showModal();
   }
-  dialog.addEventListener('close', () => { $('player-frame').src = 'about:blank'; });
+  video.addEventListener('error', () => { if (video.getAttribute('src')) message("This clip can't play in this browser. Download it to watch."); });
+  // Full screen: iPhone Safari only allows it on the video itself (webkitEnterFullscreen); on
+  // phones, sideways clips turn the screen sideways too.
+  $('player-full').onclick = async () => {
+    try {
+      if (video.requestFullscreen && document.fullscreenEnabled) {
+        await video.requestFullscreen();
+        if (!$('player-box').classList.contains('vertical')) await screen.orientation?.lock?.('landscape').catch(() => {});
+      } else if (video.webkitEnterFullscreen) video.webkitEnterFullscreen();
+    } catch {}
+  };
+  dialog.addEventListener('close', () => { video.pause(); video.removeAttribute('src'); video.load(); frame.src = 'about:blank'; });
   dialog.addEventListener('click', e => { if (e.target === dialog) dialog.close(); });
   $('player-close').onclick = () => dialog.close();
 
@@ -200,7 +220,6 @@
       if (/^#[0-9a-f]{6}$/i.test(d.accent || '')) document.documentElement.style.setProperty('--accent', d.accent);
       document.title = `${d.title} · Clips`; $('brand').textContent = d.title; $('title').textContent = d.title;
       if (d.channel?.url) { $('yt').href = d.channel.url; $('yt').hidden = false; }
-      if (d.folderUrl) { $('folder').href = d.folderUrl; $('folder').hidden = false; }
       document.querySelectorAll('.pts').forEach(n => { n.textContent = d.pointsPerClip; });
       $('stat-clips').textContent = points(d.stats?.clips ?? d.clips.length);
       $('stat-active').textContent = d.stats?.mostActive || '—';
