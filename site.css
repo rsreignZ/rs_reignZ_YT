@@ -242,5 +242,9 @@ footer { max-width: 1180px; margin: 0 auto; padding: 30px 16px 48px; display: fl
   .player-foot { padding: 12px 16px calc(16px + env(safe-area-inset-bottom)); }
   .actions { width: 100%; justify-content: space-between; gap: 14px; }
   .frame.vertical { width: min(100%, calc(66vh * 9 / 16), calc(66dvh * 9 / 16)); }
+  /* Drive's phone player puts a ~50 px controls band ABOVE the video; a plain 16:9 box cut the
+     video's bottom off. Give it the video's height plus room for that band. */
+  .frame.drive { aspect-ratio: auto; height: calc(100vw * 9 / 16 + 64px); }
+  .frame.drive.vertical { --w: min(100vw, calc(60vh * 9 / 16), calc(60dvh * 9 / 16)); width: var(--w); height: calc(var(--w) * 16 / 9 + 64px); }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .clip, .thumb img { transition: none; } }
