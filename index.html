@@ -13,7 +13,7 @@
 <body>
 <header class="top">
   <a class="brand" href="#top"><span class="dot"></span><span id="brand">Clips</span></a>
-  <nav aria-label="Sections"><a href="#games" id="nav-games" hidden>Games</a><a href="#clips">Clips</a><a href="#commands">Commands</a><a href="#active">Active</a><a href="#leaderboard">Leaderboard</a><a href="#monthly">Monthly</a><a href="#tournaments">Tournaments</a></nav>
+  <nav aria-label="Sections"><a href="#games" id="nav-games" hidden>Games</a><a href="#clips">Clips</a><a href="#active">Active</a><a href="#leaderboard">Leaderboard</a><a href="#monthly">Monthly</a><a href="#tournaments">Tournaments</a><a href="#commands">Commands</a></nav>
   <a class="yt" id="yt" target="_blank" rel="noopener" hidden>YouTube ↗</a>
 </header>
 
@@ -46,11 +46,6 @@
     <div id="clip-grid" class="grid"></div>
   </section>
 
-  <section id="commands" class="block" aria-labelledby="cmd-h">
-    <div class="block-head"><h2 id="cmd-h">Chat commands</h2><span class="note">Type these in the live chat</span></div>
-    <div id="command-list" class="commands"></div>
-  </section>
-
   <section id="active" class="block" aria-labelledby="active-h">
     <div class="block-head"><h2 id="active-h">Most active this week</h2><span class="note" id="active-note">Resets every Monday</span></div>
     <div id="active-top" class="active"></div>
@@ -71,6 +66,11 @@
   <section id="tournaments" class="block" aria-labelledby="tour-h">
     <div class="block-head"><h2 id="tour-h">Tournaments</h2></div>
     <div id="tourneys" class="tourneys"></div>
+  </section>
+
+  <section id="commands" class="block" aria-labelledby="cmd-h">
+    <div class="block-head"><h2 id="cmd-h">Chat commands</h2><span class="note">Type these in the live chat</span></div>
+    <div id="command-list" class="commands"></div>
   </section>
 </main>
 
