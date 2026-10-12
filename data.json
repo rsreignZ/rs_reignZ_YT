@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-12T16:09:42.829Z",
+ "updatedAt": "2026-10-12T16:21:59.428Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -86,7 +86,7 @@
  "stats": {
   "clips": 18,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": null
+  "mostActive": "@The-Vansh-T-T"
  },
  "clips": [
   {
@@ -308,7 +308,29 @@
  ],
  "active": {
   "weekStart": "2026-10-12",
-  "top": []
+  "top": [
+   {
+    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
+    "name": "@The-Vansh-T-T",
+    "points": 19,
+    "streams": 1,
+    "messages": 17
+   },
+   {
+    "channelId": "UCRSiJSP-koJ5ad9dr1A7iDw",
+    "name": "@RYUZEN-ROHAANKU",
+    "points": 14,
+    "streams": 1,
+    "messages": 7
+   },
+   {
+    "channelId": "UCDWwaMrJN1hfELovPgD1XBQ",
+    "name": "@xyzgaming-z3o",
+    "points": 11,
+    "streams": 1,
+    "messages": 1
+   }
+  ]
  },
  "leaderboard": [
   {
