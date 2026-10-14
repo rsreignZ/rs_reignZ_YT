@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-12T17:40:38.295Z",
+ "updatedAt": "2026-10-14T16:13:00.830Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -86,7 +86,7 @@
  "stats": {
   "clips": 18,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": "@The-Vansh-T-T"
+  "mostActive": "@Itxadiyan"
  },
  "clips": [
   {
@@ -310,6 +310,13 @@
   "weekStart": "2026-10-12",
   "top": [
    {
+    "channelId": "UCKqFgGTKSg1jfEa4o3Ejvqw",
+    "name": "@Itxadiyan",
+    "points": 48,
+    "streams": 1,
+    "messages": 47
+   },
+   {
     "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
     "name": "@The-Vansh-T-T",
     "points": 45,
@@ -317,18 +324,11 @@
     "messages": 54
    },
    {
-    "channelId": "UCKqFgGTKSg1jfEa4o3Ejvqw",
-    "name": "@Itxadiyan",
-    "points": 45,
+    "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
+    "name": "@ShouryaThakur_12",
+    "points": 37,
     "streams": 1,
-    "messages": 44
-   },
-   {
-    "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-    "name": "@gurimmureapah",
-    "points": 33,
-    "streams": 1,
-    "messages": 40
+    "messages": 38
    }
   ]
  },
@@ -383,7 +383,7 @@
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 215
+     "total": 216
     }
    ]
   }
