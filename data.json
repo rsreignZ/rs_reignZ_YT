@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-14T16:47:21.662Z",
+ "updatedAt": "2026-10-14T16:57:50.181Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -312,9 +312,16 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 63,
+    "points": 71,
     "streams": 4,
-    "messages": 43
+    "messages": 57
+   },
+   {
+    "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+    "name": "@gurimmureapah",
+    "points": 60,
+    "streams": 3,
+    "messages": 49
    },
    {
     "channelId": "UCKqFgGTKSg1jfEa4o3Ejvqw",
@@ -322,13 +329,6 @@
     "points": 48,
     "streams": 1,
     "messages": 47
-   },
-   {
-    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
-    "name": "@The-Vansh-T-T",
-    "points": 45,
-    "streams": 1,
-    "messages": 54
    }
   ]
  },
@@ -383,7 +383,7 @@
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 227
+     "total": 242
     }
    ]
   }
