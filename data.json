@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-14T17:46:49.626Z",
+ "updatedAt": "2026-10-14T17:51:59.816Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,11 +84,23 @@
   }
  ],
  "stats": {
-  "clips": 18,
+  "clips": 19,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@AbhinavRajput01"
  },
  "clips": [
+  {
+   "id": "906ee224-f9d",
+   "title": "Chat highlight",
+   "seconds": 60,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-14T17:51:04.423Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1fIG4uSVuLLV0UxCgzBnWX2H6gvahyBHW/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1fIG4uSVuLLV0UxCgzBnWX2H6gvahyBHW&export=download",
+   "thumb": "thumbs/906ee224-f9d.jpg"
+  },
   {
    "id": "f889a15f-378",
    "title": "What a coincident",
@@ -319,16 +331,16 @@
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 82,
+    "points": 84,
     "streams": 4,
-    "messages": 66
+    "messages": 69
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 63,
-    "streams": 3,
-    "messages": 54
+    "points": 75,
+    "streams": 4,
+    "messages": 56
    }
   ]
  },
@@ -337,8 +349,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 6,
-   "score": 600
+   "clips": 7,
+   "score": 700
   },
   {
    "rank": 2,
@@ -369,16 +381,16 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 788,
-    "clipPoints": 600,
-    "activityPoints": 188,
-    "clips": 6
+    "total": 889,
+    "clipPoints": 700,
+    "activityPoints": 189,
+    "clips": 7
    },
    "runnersUp": [
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 245
+     "total": 257
     },
     {
      "name": "@Zahwab",
