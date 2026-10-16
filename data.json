@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-16T18:01:04.791Z",
+ "updatedAt": "2026-10-16T18:03:09.406Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,11 +84,47 @@
   }
  ],
  "stats": {
-  "clips": 20,
+  "clips": 22,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@AbhinavRajput01"
  },
  "clips": [
+  {
+   "id": "b0a25f11-4de",
+   "title": "Chat highlight",
+   "seconds": 60,
+   "by": "@gurimmureapah",
+   "byChannelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+   "createdAt": "2026-10-16T18:02:19.142Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1CN3M_IxDDjeI3I6LDk3v_a7iroomG64V/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1CN3M_IxDDjeI3I6LDk3v_a7iroomG64V&export=download",
+   "thumb": "thumbs/b0a25f11-4de.jpg"
+  },
+  {
+   "id": "39bd4faa-eed",
+   "title": "bakchodi rukni nahi chahiye",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-16T18:01:33.632Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1aFRqoA9JKkgoixWqlBuqQDmVraPS48fe/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1aFRqoA9JKkgoixWqlBuqQDmVraPS48fe&export=download",
+   "thumb": "thumbs/39bd4faa-eed.jpg"
+  },
+  {
+   "id": "c0df041d-b20",
+   "title": "Chat highlight",
+   "seconds": 60,
+   "by": "@gurimmureapah",
+   "byChannelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+   "createdAt": "2026-10-16T18:00:52.862Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1ZB4rR1RZZmo4GXpPFTFmiP-0PXnpf6Pn/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1ZB4rR1RZZmo4GXpPFTFmiP-0PXnpf6Pn&export=download",
+   "thumb": "thumbs/c0df041d-b20.jpg"
+  },
   {
    "id": "906ee224-f9d",
    "title": "Chat highlight",
@@ -331,16 +367,16 @@
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 119,
+    "points": 120,
     "streams": 6,
-    "messages": 91
+    "messages": 92
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 111,
+    "points": 112,
     "streams": 5,
-    "messages": 89
+    "messages": 90
    }
   ]
  },
@@ -349,20 +385,20 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 7,
-   "score": 700
+   "clips": 8,
+   "score": 800
   },
   {
    "rank": 2,
-   "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
-   "name": "@Zahwab",
-   "clips": 2,
-   "score": 200
+   "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+   "name": "@gurimmureapah",
+   "clips": 3,
+   "score": 300
   },
   {
    "rank": 3,
-   "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-   "name": "@gurimmureapah",
+   "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+   "name": "@Zahwab",
    "clips": 2,
    "score": 200
   },
@@ -381,16 +417,16 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 904,
-    "clipPoints": 700,
-    "activityPoints": 204,
-    "clips": 7
+    "total": 1006,
+    "clipPoints": 800,
+    "activityPoints": 206,
+    "clips": 8
    },
    "runnersUp": [
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 401
+     "total": 502
     },
     {
      "name": "@AbhinavRajput01",
