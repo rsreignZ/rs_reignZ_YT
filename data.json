@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-16T18:06:23.869Z",
+ "updatedAt": "2026-10-16T18:16:31.752Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -372,9 +372,9 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 159,
+    "points": 165,
     "streams": 8,
-    "messages": 123
+    "messages": 130
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
@@ -386,9 +386,9 @@
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 112,
+    "points": 114,
     "streams": 5,
-    "messages": 90
+    "messages": 94
    }
   ]
  },
@@ -436,9 +436,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 1007,
+    "total": 1010,
     "clipPoints": 800,
-    "activityPoints": 207,
+    "activityPoints": 210,
     "clips": 8
    },
    "runnersUp": [
@@ -450,7 +450,7 @@
     {
      "name": "@AbhinavRajput01",
      "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
-     "total": 261
+     "total": 267
     }
    ]
   }
