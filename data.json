@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-16T18:03:09.406Z",
+ "updatedAt": "2026-10-16T18:06:23.869Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,11 +84,23 @@
   }
  ],
  "stats": {
-  "clips": 22,
+  "clips": 23,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@AbhinavRajput01"
  },
  "clips": [
+  {
+   "id": "9dc33647-76a",
+   "title": "Chat highlight",
+   "seconds": 120,
+   "by": "@Kunal_Luthra",
+   "byChannelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+   "createdAt": "2026-10-16T18:05:00.140Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1DQVxCsy92k3I7LjVbrXpPRheQXVAzJDL/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1DQVxCsy92k3I7LjVbrXpPRheQXVAzJDL&export=download",
+   "thumb": "thumbs/9dc33647-76a.jpg"
+  },
   {
    "id": "b0a25f11-4de",
    "title": "Chat highlight",
@@ -360,16 +372,16 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 156,
+    "points": 159,
     "streams": 8,
-    "messages": 120
+    "messages": 123
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 120,
+    "points": 122,
     "streams": 6,
-    "messages": 92
+    "messages": 94
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -408,6 +420,13 @@
    "name": "@TestingAccount-g9z",
    "clips": 1,
    "score": 100
+  },
+  {
+   "rank": 5,
+   "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+   "name": "@Kunal_Luthra",
+   "clips": 1,
+   "score": 100
   }
  ],
  "months": [
@@ -417,21 +436,21 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 1006,
+    "total": 1007,
     "clipPoints": 800,
-    "activityPoints": 206,
+    "activityPoints": 207,
     "clips": 8
    },
    "runnersUp": [
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 502
+     "total": 504
     },
     {
      "name": "@AbhinavRajput01",
      "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
-     "total": 258
+     "total": 261
     }
    ]
   }
