@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-20T17:28:05.178Z",
+ "updatedAt": "2026-10-20T17:39:05.372Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -401,16 +401,16 @@
     "messages": 48
    },
    {
+    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+    "name": "@Kunal_Luthra",
+    "points": 21,
+    "streams": 1,
+    "messages": 18
+   },
+   {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
     "points": 17,
-    "streams": 1,
-    "messages": 10
-   },
-   {
-    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-    "name": "@Kunal_Luthra",
-    "points": 16,
     "streams": 1,
     "messages": 10
    }
