@@ -1,8 +1,11 @@
 {
  "version": 2,
- "title": "Stream clips",
- "channel": null,
- "updatedAt": "2026-10-20T16:09:22.914Z",
+ "title": "rs_reignZ",
+ "channel": {
+  "name": "rs_reignZ",
+  "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
+ },
+ "updatedAt": "2026-10-20T16:20:42.475Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -16,6 +19,10 @@
  "profile": {
   "description": "Gamer / Game Dev !",
   "socials": [
+   {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
+   },
    {
     "platform": "instagram",
     "url": "https://www.instagram.com/rs_reignz/"
@@ -302,8 +309,8 @@
    "id": "16C3B0TJSm3y",
    "title": "Ball Nikaal Raha Tha",
    "seconds": 141,
-   "by": "Streamer",
-   "byChannelId": null,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
    "createdAt": "2026-10-04T11:06:40.852Z",
    "vertical": true,
    "embed": "https://drive.google.com/file/d/16C3B0TJSm3ycb7SRAF5laDLMxtHrrC3L/preview",
@@ -314,8 +321,8 @@
    "id": "1gxLWPrm9aoQ",
    "title": "Tel Khatam Hogya",
    "seconds": 60,
-   "by": "Streamer",
-   "byChannelId": null,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
    "createdAt": "2026-10-04T11:06:21.663Z",
    "vertical": true,
    "embed": "https://drive.google.com/file/d/1gxLWPrm9aoQONdpAnuLy0tG5DTZMYrAf/preview",
@@ -326,8 +333,8 @@
    "id": "1oF9zi_lSkc3",
    "title": "This Scene Broke Me",
    "seconds": 143,
-   "by": "Streamer",
-   "byChannelId": null,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
    "createdAt": "2026-10-04T11:06:12.209Z",
    "vertical": true,
    "embed": "https://drive.google.com/file/d/1oF9zi_lSkc3P_swNUPfN0a1gleuUKz9u/preview",
@@ -338,8 +345,8 @@
    "id": "1Sh7RbKmkBYa",
    "title": "Laude Wali Behen",
    "seconds": 69,
-   "by": "Streamer",
-   "byChannelId": null,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
    "createdAt": "2026-10-04T11:05:46.431Z",
    "vertical": true,
    "embed": "https://drive.google.com/file/d/1Sh7RbKmkBYaft7E1hCIyOXpBwapUVg-x/preview",
@@ -350,8 +357,8 @@
    "id": "1gdzKjVPomx1",
    "title": "Lights On Or Off",
    "seconds": 26,
-   "by": "Streamer",
-   "byChannelId": null,
+   "by": "rs_reignZ",
+   "byChannelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
    "createdAt": "2026-10-04T11:05:20.101Z",
    "vertical": true,
    "embed": "https://drive.google.com/file/d/1gdzKjVPomx1ymPcFk3_6eTmSbWU_LK7v/preview",
@@ -387,20 +394,13 @@
   },
   {
    "rank": 4,
-   "channelId": "UCT7SzDcg7JVxFKMWLf-pi_Q",
-   "name": "@rs_reignZ",
-   "clips": 1,
-   "score": 100
-  },
-  {
-   "rank": 5,
    "channelId": "UColG8TKYu5GvEKqEC4gKzrA",
    "name": "@TestingAccount-g9z",
    "clips": 1,
    "score": 100
   },
   {
-   "rank": 6,
+   "rank": 5,
    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
    "name": "@Kunal_Luthra",
    "clips": 1,
