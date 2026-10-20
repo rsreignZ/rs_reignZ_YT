@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-20T16:39:07.571Z",
+ "updatedAt": "2026-10-20T16:41:17.348Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -89,6 +89,18 @@
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "27e5844e-010",
+   "title": "sleli",
+   "seconds": 47,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-20T16:38:54.404Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1n-auFWlnzcBnbbFNiL4I9CUo1N7TkQc4/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1n-auFWlnzcBnbbFNiL4I9CUo1N7TkQc4&export=download",
+   "thumb": "thumbs/27e5844e-010.jpg"
+  },
   {
    "id": "503cca3d-d65",
    "title": "start",
@@ -384,9 +396,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 23,
+    "points": 26,
     "streams": 1,
-    "messages": 18
+    "messages": 21
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -448,9 +460,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 1233,
+    "total": 1236,
     "clipPoints": 1000,
-    "activityPoints": 233,
+    "activityPoints": 236,
     "clips": 10
    },
    "runnersUp": [
