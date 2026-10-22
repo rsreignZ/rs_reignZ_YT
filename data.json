@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-22T17:26:57.821Z",
+ "updatedAt": "2026-10-22T17:29:02.061Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -89,6 +89,18 @@
   "mostActive": "@Kunal_Luthra"
  },
  "clips": [
+  {
+   "id": "c8fd62ff-cad",
+   "title": "nice",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-22T17:26:45.469Z",
+   "vertical": true,
+   "embed": "https://drive.google.com/file/d/1gMYSLZ4JbLu4VIJ1zg3mOOdMVakF-Cma/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1gMYSLZ4JbLu4VIJ1zg3mOOdMVakF-Cma&export=download",
+   "thumb": "thumbs/c8fd62ff-cad.jpg"
+  },
   {
    "id": "16596156-237",
    "title": "sinpe",
@@ -427,9 +439,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 83,
+    "points": 85,
     "streams": 2,
-    "messages": 75
+    "messages": 77
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -484,9 +496,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 1593,
+    "total": 1595,
     "clipPoints": 1300,
-    "activityPoints": 293,
+    "activityPoints": 295,
     "clips": 13
    },
    "runnersUp": [
