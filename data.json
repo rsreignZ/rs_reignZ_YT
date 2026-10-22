@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-22T17:29:02.061Z",
+ "updatedAt": "2026-10-22T17:31:07.012Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -84,11 +84,23 @@
   }
  ],
  "stats": {
-  "clips": 28,
+  "clips": 29,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Kunal_Luthra"
  },
  "clips": [
+  {
+   "id": "5738a24b-f17",
+   "title": "nice try better luck next time",
+   "seconds": 100,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-22T17:29:39.274Z",
+   "vertical": true,
+   "embed": "https://drive.google.com/file/d/1D1LBoJCb9J2B-l-juDuYDZyp-L0bWb3C/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1D1LBoJCb9J2B-l-juDuYDZyp-L0bWb3C&export=download",
+   "thumb": "thumbs/5738a24b-f17.jpg"
+  },
   {
    "id": "c8fd62ff-cad",
    "title": "nice",
@@ -439,9 +451,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 85,
+    "points": 86,
     "streams": 2,
-    "messages": 77
+    "messages": 79
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -457,8 +469,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 13,
-   "score": 1300
+   "clips": 14,
+   "score": 1400
   },
   {
    "rank": 2,
@@ -496,10 +508,10 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 1595,
-    "clipPoints": 1300,
-    "activityPoints": 295,
-    "clips": 13
+    "total": 1696,
+    "clipPoints": 1400,
+    "activityPoints": 296,
+    "clips": 14
    },
    "runnersUp": [
     {
