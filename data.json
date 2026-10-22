@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-22T17:15:16.679Z",
+ "updatedAt": "2026-10-22T17:17:21.995Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -89,6 +89,18 @@
   "mostActive": "@Kunal_Luthra"
  },
  "clips": [
+  {
+   "id": "16596156-237",
+   "title": "sinpe",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-22T17:15:04.326Z",
+   "vertical": true,
+   "embed": "https://drive.google.com/file/d/1LamVied9ZtFPr59a6HecucRqDBZiXC1j/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1LamVied9ZtFPr59a6HecucRqDBZiXC1j&export=download",
+   "thumb": "thumbs/16596156-237.jpg"
+  },
   {
    "id": "c42d1900-4ab",
    "title": "nice death",
@@ -417,7 +429,7 @@
     "name": "@Madhav_Khanna",
     "points": 78,
     "streams": 2,
-    "messages": 67
+    "messages": 68
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
