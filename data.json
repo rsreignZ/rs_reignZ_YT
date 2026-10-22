@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-22T18:32:51.349Z",
+ "updatedAt": "2026-10-22T19:11:27.495Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -58,18 +58,6 @@
    "cmd": "!mark",
    "example": "!mark boss down",
    "text": "Bookmarks the moment with a timestamp so it can be found later."
-  },
-  {
-   "cmd": "!tts",
-   "example": "!tts gg everyone",
-   "text": "Reads your message out loud on stream. No links.",
-   "tag": "Everyone"
-  },
-  {
-   "cmd": "!ping",
-   "example": "!ping",
-   "text": "Gets the streamer's attention: the stream voice says your name.",
-   "tag": "Everyone"
   },
   {
    "cmd": "!clips",
@@ -480,9 +468,9 @@
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
     "name": "@Kunal_Luthra",
-    "points": 114,
-    "streams": 4,
-    "messages": 128
+    "points": 127,
+    "streams": 5,
+    "messages": 131
    },
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
@@ -558,7 +546,7 @@
     {
      "name": "@Kunal_Luthra",
      "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 360
+     "total": 373
     }
    ]
   }
