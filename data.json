@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-23T19:15:41.091Z",
+ "updatedAt": "2026-10-23T19:17:45.482Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -251,6 +251,18 @@
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "2c2e4370-49f",
+   "title": "death loop",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-23T19:15:29.084Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1EJTJwX8bo1c1sWMJiJ_vp9lWUFBEtn9R/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1EJTJwX8bo1c1sWMJiJ_vp9lWUFBEtn9R&export=download",
+   "thumb": "thumbs/2c2e4370-49f.jpg"
+  },
   {
    "id": "2f7754b2-d44",
    "title": "test",
