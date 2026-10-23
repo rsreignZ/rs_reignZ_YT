@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-23T16:36:22.324Z",
+ "updatedAt": "2026-10-23T17:04:23.260Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -60,6 +60,18 @@
    "text": "Bookmarks the moment with a timestamp so it can be found later."
   },
   {
+   "cmd": "!tts",
+   "example": "!tts gg everyone",
+   "text": "Reads your message out loud on stream. No links.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!ping",
+   "example": "!ping",
+   "text": "Gets the streamer's attention: the stream voice says your name.",
+   "tag": "Everyone"
+  },
+  {
    "cmd": "!clips",
    "example": "!clips",
    "text": "Get the link to every saved clip."
@@ -69,6 +81,36 @@
    "example": "yes",
    "text": "Approve or drop a waiting clip. If several are waiting, add the code from the prompt: yes K7QM.",
    "tag": "Nakama only"
+  },
+  {
+   "cmd": "!tts0",
+   "example": "!tts0 gg chat",
+   "text": "C · bright Hinglish. Falls back through lower entries if unavailable.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!tts1",
+   "example": "!tts1 gg chat",
+   "text": "3.8 Flash TTS. Falls back through lower entries if unavailable.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!tts2",
+   "example": "!tts2 gg chat",
+   "text": "3.8 Flash-Lite TTS. Falls back through lower entries if unavailable.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!tts3",
+   "example": "!tts3 gg chat",
+   "text": "3.1 Flash TTS (preview). Falls back through lower entries if unavailable.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!tts4",
+   "example": "!tts4 gg chat",
+   "text": "2.5 Flash TTS (preview). Falls back through lower entries if unavailable.",
+   "tag": "Everyone"
   },
   {
    "cmd": "!aah",
@@ -607,9 +649,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 113,
-    "streams": 2,
-    "messages": 109
+    "points": 125,
+    "streams": 3,
+    "messages": 111
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -664,9 +706,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 2023,
+    "total": 2035,
     "clipPoints": 1700,
-    "activityPoints": 323,
+    "activityPoints": 335,
     "clips": 17
    },
    "runnersUp": [
