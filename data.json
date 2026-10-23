@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-23T19:00:27.830Z",
+ "updatedAt": "2026-10-23T19:06:07.367Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -246,11 +246,23 @@
   }
  ],
  "stats": {
-  "clips": 32,
+  "clips": 33,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Madhav_Khanna"
  },
  "clips": [
+  {
+   "id": "2f7754b2-d44",
+   "title": "test",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-10-23T19:05:09.641Z",
+   "vertical": false,
+   "embed": "https://drive.google.com/file/d/1AHPISSF2LadE1nMo24IVx-jeXDPZ_tWz/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1AHPISSF2LadE1nMo24IVx-jeXDPZ_tWz&export=download",
+   "thumb": "thumbs/2f7754b2-d44.jpg"
+  },
   {
    "id": "b40d4057-7ea",
    "title": "got fucked",
@@ -642,9 +654,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 164,
+    "points": 168,
     "streams": 4,
-    "messages": 142
+    "messages": 147
    },
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
@@ -667,8 +679,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 17,
-   "score": 1700
+   "clips": 18,
+   "score": 1800
   },
   {
    "rank": 2,
@@ -706,10 +718,10 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 2074,
-    "clipPoints": 1700,
-    "activityPoints": 374,
-    "clips": 17
+    "total": 2178,
+    "clipPoints": 1800,
+    "activityPoints": 378,
+    "clips": 18
    },
    "runnersUp": [
     {
