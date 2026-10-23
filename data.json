@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-22T19:35:41.456Z",
+ "updatedAt": "2026-10-23T16:36:22.324Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -69,6 +69,138 @@
    "example": "yes",
    "text": "Approve or drop a waiting clip. If several are waiting, add the code from the prompt: yes K7QM.",
    "tag": "Nakama only"
+  },
+  {
+   "cmd": "!aah",
+   "example": "!sfx aah",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!aayein",
+   "example": "!sfx aayein",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!arebaapre",
+   "example": "!sfx arebaapre",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!bruh",
+   "example": "!sfx bruh",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!chalo",
+   "example": "!sfx chalo",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!cid",
+   "example": "!sfx cid",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!cid1",
+   "example": "!sfx cid1",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!cid2",
+   "example": "!sfx cid2",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!deepakkalal",
+   "example": "!sfx deepakkalal",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!faah",
+   "example": "!sfx faah",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!gaysound",
+   "example": "!sfx gaysound",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!modiji",
+   "example": "!sfx modiji",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!quack",
+   "example": "!sfx quack",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!saale",
+   "example": "!sfx saale",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!sad",
+   "example": "!sfx sad",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!scream",
+   "example": "!sfx scream",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!shocksfx",
+   "example": "!sfx shocksfx",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!spiderman",
+   "example": "!sfx spiderman",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!sus",
+   "example": "!sfx sus",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!sus1",
+   "example": "!sfx sus1",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!undertaker",
+   "example": "!sfx undertaker",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
+  },
+  {
+   "cmd": "!wow",
+   "example": "!sfx wow",
+   "text": "Plays a sound on stream. Soundboard cooldown applies.",
+   "tag": "Everyone"
   }
  ],
  "stats": {
