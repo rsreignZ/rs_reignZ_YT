@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-25T17:28:24.374Z",
+ "updatedAt": "2026-10-25T17:49:37.682Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,9 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 228,
-    "streams": 5,
-    "messages": 214
+    "points": 243,
+    "streams": 6,
+    "messages": 220
    },
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
@@ -752,9 +752,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 2338,
+    "total": 2353,
     "clipPoints": 1900,
-    "activityPoints": 438,
+    "activityPoints": 453,
     "clips": 19
    },
    "runnersUp": [
