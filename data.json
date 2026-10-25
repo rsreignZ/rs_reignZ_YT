@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-10-24T18:53:55.358Z",
+ "updatedAt": "2026-10-25T14:06:56.766Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -75,6 +75,28 @@
    "cmd": "!clips",
    "example": "!clips",
    "text": "Get the link to every saved clip."
+  },
+  {
+   "cmd": "!chatcolor",
+   "example": "!chatcolor #78DFFF",
+   "text": "Choose your on-screen name color. Use !chatcolor reset to restore automatic color."
+  },
+  {
+   "cmd": "!screen",
+   "example": "!screen one more try!",
+   "text": "Show a corner message. Uses the same permissions and cooldown as TTS."
+  },
+  {
+   "cmd": "!next / !previous / !play / !pause",
+   "example": "!next",
+   "text": "Control Spotify when the streamer enables it. 30-second viewer cooldown and 10-second global cooldown.",
+   "tag": "When enabled"
+  },
+  {
+   "cmd": "!musicon / !musicoff",
+   "example": "!musicon",
+   "text": "Enable or disable viewer Spotify playback controls.",
+   "tag": "Streamer only"
   },
   {
    "cmd": "yes / no",

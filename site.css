@@ -248,3 +248,5 @@ footer { max-width: 1180px; margin: 0 auto; padding: 30px 16px 48px; display: fl
   .frame.drive.vertical { --w: min(100vw, calc(60vh * 9 / 16), calc(60dvh * 9 / 16)); width: var(--w); height: calc(var(--w) * 16 / 9 + 64px); }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .clip, .thumb img { transition: none; } }
+/* YouTube clip experiment: separate from saved clip cards. */
+.yt-test-fields{display:flex;gap:14px;flex-wrap:wrap;align-items:end}.yt-test-fields label{display:flex;flex-direction:column;gap:7px;flex:1;min-width:140px}.yt-test-fields label:first-child{flex:3;min-width:230px}.yt-test-fields input{width:100%;padding:11px;border:1px solid #39434c;border-radius:8px;background:#141a21;color:#fff;font:inherit}.yt-test-frame{aspect-ratio:16/9;max-width:900px;margin:20px 0}.yt-test-frame iframe{width:100%;height:100%;border:0}#yt-test-seek{display:block;width:100%;max-width:900px;margin:14px 0}

@@ -46,6 +46,20 @@
     <div id="clip-grid" class="grid"></div>
   </section>
 
+  <section id="youtube-test" class="block" aria-labelledby="youtube-test-h">
+    <div class="block-head"><h2 id="youtube-test-h">YouTube clip test</h2><span class="note">Try a short section of a YouTube video</span></div>
+    <form id="yt-test-form" class="yt-test-fields">
+      <label>YouTube URL or video ID<input id="yt-test-video" value="M7lc1UVf-VE" required autocomplete="off"></label>
+      <label>Start (seconds)<input id="yt-test-start" type="number" min="0" max="86400" value="5" step="0.1" required></label>
+      <label>Clip length (seconds)<input id="yt-test-length" type="number" min="1" max="300" value="20" step="0.1" required></label>
+      <button class="btn" type="submit">Load test clip</button>
+    </form>
+    <p id="yt-test-status" role="status">Sample: YouTube’s IFrame player demo, 20 seconds starting at 0:05. Load it, then press Play.</p>
+    <div class="yt-test-frame" id="yt-test-frame" hidden><div id="yt-test-player"></div></div>
+    <div id="yt-test-controls" hidden><label for="yt-test-seek">Clip timeline <span id="yt-test-clock">0 / 20 s</span></label><input id="yt-test-seek" type="range" min="0" max="20" step="0.1" value="0"><button id="yt-test-play" class="btn" type="button">Play / pause</button> <button id="yt-test-restart" class="ghost" type="button">Replay clip</button></div>
+    <p class="note">This test plays through YouTube. The slider covers only your selected clip; YouTube’s own timeline still belongs to the full video. This sample has no original file to download. Saved Moment clips retain their separate original-file downloads.</p>
+  </section>
+
   <section id="active" class="block" aria-labelledby="active-h">
     <div class="block-head"><h2 id="active-h">Most active this week</h2><span class="note" id="active-note">Resets every Monday</span></div>
     <div id="active-top" class="active"></div>
@@ -83,5 +97,6 @@
 </dialog>
 
 <script src="site.js"></script>
+<script src="youtube-test.js"></script>
 </body>
 </html>
