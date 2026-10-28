@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-10-28T17:13:49.842Z",
+ "updatedAt": "2026-10-28T17:26:07.024Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -686,18 +686,18 @@
     "messages": 72
    },
    {
+    "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
+    "name": "@AbhinavRajput01",
+    "points": 70,
+    "streams": 5,
+    "messages": 27
+   },
+   {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
     "points": 68,
     "streams": 5,
     "messages": 28
-   },
-   {
-    "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
-    "name": "@AbhinavRajput01",
-    "points": 59,
-    "streams": 4,
-    "messages": 26
    }
   ]
  },
