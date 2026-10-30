@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-10-30T14:30:10.659Z",
+ "updatedAt": "2026-10-30T15:15:21.735Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,9 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 119,
-    "streams": 9,
-    "messages": 38
+    "points": 130,
+    "streams": 10,
+    "messages": 39
    },
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
