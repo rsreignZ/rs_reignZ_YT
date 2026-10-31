@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-10-31T18:33:31.114Z",
+ "updatedAt": "2026-10-31T18:39:35.068Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -752,9 +752,9 @@
    "winner": {
     "name": "@Kunal_Luthra",
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-    "total": 12,
+    "total": 15,
     "clipPoints": 0,
-    "activityPoints": 12,
+    "activityPoints": 15,
     "clips": 0
    },
    "runnersUp": []
