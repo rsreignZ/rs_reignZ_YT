@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-10-31T13:42:14.716Z",
+ "updatedAt": "2026-10-31T14:02:41.719Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -681,16 +681,16 @@
    {
     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
     "name": "@AbhinavRajput01",
-    "points": 179,
+    "points": 180,
     "streams": 11,
-    "messages": 99
+    "messages": 100
    },
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 131,
-    "streams": 7,
-    "messages": 72
+    "points": 147,
+    "streams": 8,
+    "messages": 79
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -752,9 +752,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 2589,
+    "total": 2605,
     "clipPoints": 2000,
-    "activityPoints": 589,
+    "activityPoints": 605,
     "clips": 20
    },
    "runnersUp": [
