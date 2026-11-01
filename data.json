@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-11-01T14:47:37.493Z",
+ "updatedAt": "2026-11-01T15:12:57.682Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -762,6 +762,11 @@
      "name": "@Kunal_Luthra",
      "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
      "total": 15
+    },
+    {
+     "name": "@Zahwab",
+     "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+     "total": 11
     }
    ]
   },
