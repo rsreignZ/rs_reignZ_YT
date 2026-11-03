@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-11-03T16:47:12.359Z",
+ "updatedAt": "2026-11-03T16:57:50.850Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -681,16 +681,16 @@
    {
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
     "name": "@Madhav_Khanna",
-    "points": 17,
+    "points": 24,
     "streams": 1,
-    "messages": 11
+    "messages": 20
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 14,
+    "points": 18,
     "streams": 1,
-    "messages": 4
+    "messages": 9
    },
    {
     "channelId": "UCIRV6FvBF-J0MIWiepHZZaQ",
@@ -750,23 +750,23 @@
    "month": "2026-11",
    "inProgress": true,
    "winner": {
-    "name": "@AbhinavRajput01",
-    "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
-    "total": 23,
+    "name": "@Madhav_Khanna",
+    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+    "total": 24,
     "clipPoints": 0,
-    "activityPoints": 23,
+    "activityPoints": 24,
     "clips": 0
    },
    "runnersUp": [
     {
-     "name": "@Madhav_Khanna",
-     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-     "total": 17
+     "name": "@AbhinavRajput01",
+     "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
+     "total": 23
     },
     {
-     "name": "@Kunal_Luthra",
-     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 15
+     "name": "@burhan493",
+     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
+     "total": 18
     }
    ]
   },
