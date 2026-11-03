@@ -2,7 +2,7 @@
  "version": 2,
  "title": "Stream clips",
  "channel": null,
- "updatedAt": "2026-11-03T17:40:02.464Z",
+ "updatedAt": "2026-11-03T18:25:12.612Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,9 @@
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 21,
-    "streams": 1,
-    "messages": 12
+    "points": 39,
+    "streams": 2,
+    "messages": 22
    },
    {
     "channelId": "UCIRV6FvBF-J0MIWiepHZZaQ",
@@ -759,14 +759,14 @@
    },
    "runnersUp": [
     {
+     "name": "@burhan493",
+     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
+     "total": 39
+    },
+    {
      "name": "@AbhinavRajput01",
      "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
      "total": 23
-    },
-    {
-     "name": "@burhan493",
-     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-     "total": 21
     }
    ]
   },
