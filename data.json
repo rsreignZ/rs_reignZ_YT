@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-16T16:26:54.633Z",
+ "updatedAt": "2026-11-16T17:46:59.254Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -270,7 +270,7 @@
  "stats": {
   "clips": 35,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": "@gameontech12"
+  "mostActive": "@The-Vansh-T-T"
  },
  "clips": [
   {
@@ -686,25 +686,25 @@
   "weekStart": "2026-11-16",
   "top": [
    {
-    "channelId": "UCrtAralQu8OQXb99rP8UGvg",
-    "name": "@gameontech12",
+    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
+    "name": "@The-Vansh-T-T",
+    "points": 22,
+    "streams": 1,
+    "messages": 18
+   },
+   {
+    "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
+    "name": "@AbhinavRajput01",
     "points": 14,
     "streams": 1,
     "messages": 4
    },
    {
-    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
-    "name": "@The-Vansh-T-T",
-    "points": 13,
+    "channelId": "UCrtAralQu8OQXb99rP8UGvg",
+    "name": "@gameontech12",
+    "points": 14,
     "streams": 1,
     "messages": 4
-   },
-   {
-    "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
-    "name": "@ShouryaThakur_12",
-    "points": 12,
-    "streams": 1,
-    "messages": 2
    }
   ]
  },
@@ -766,7 +766,7 @@
     {
      "name": "@AbhinavRajput01",
      "channelId": "UCApAOGs-bn4rebuZ_NhVGEA",
-     "total": 98
+     "total": 112
     }
    ]
   },
