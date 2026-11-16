@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-14T12:18:41.137Z",
+ "updatedAt": "2026-11-16T15:01:34.779Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -270,7 +270,7 @@
  "stats": {
   "clips": 35,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": "@gameontech12"
+  "mostActive": null
  },
  "clips": [
   {
@@ -683,30 +683,8 @@
   }
  ],
  "active": {
-  "weekStart": "2026-11-09",
-  "top": [
-   {
-    "channelId": "UCrtAralQu8OQXb99rP8UGvg",
-    "name": "@gameontech12",
-    "points": 17,
-    "streams": 1,
-    "messages": 11
-   },
-   {
-    "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-    "name": "@burhan493",
-    "points": 15,
-    "streams": 1,
-    "messages": 5
-   },
-   {
-    "channelId": "UCbx_69wmMn-xN9iLLMliMwA",
-    "name": "@Son_Goatku69",
-    "points": 13,
-    "streams": 1,
-    "messages": 5
-   }
-  ]
+  "weekStart": "2026-11-16",
+  "top": []
  },
  "leaderboard": [
   {
