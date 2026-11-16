@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-16T15:43:22.147Z",
+ "updatedAt": "2026-11-16T16:11:03.013Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -691,6 +691,13 @@
     "points": 14,
     "streams": 1,
     "messages": 4
+   },
+   {
+    "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
+    "name": "@ShouryaThakur_12",
+    "points": 12,
+    "streams": 1,
+    "messages": 2
    }
   ]
  },
