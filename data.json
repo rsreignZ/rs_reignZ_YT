@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-16T16:11:03.013Z",
+ "updatedAt": "2026-11-16T16:26:54.633Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -693,6 +693,13 @@
     "messages": 4
    },
    {
+    "channelId": "UCTI_OvJr-OexH02OpBRAfmQ",
+    "name": "@The-Vansh-T-T",
+    "points": 13,
+    "streams": 1,
+    "messages": 4
+   },
+   {
     "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
     "name": "@ShouryaThakur_12",
     "points": 12,
@@ -754,7 +761,7 @@
     {
      "name": "@gurimmureapah",
      "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
-     "total": 113
+     "total": 124
     },
     {
      "name": "@AbhinavRajput01",
