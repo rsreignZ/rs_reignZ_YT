@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T18:57:01.179Z",
+ "updatedAt": "2026-11-22T19:07:12.264Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -270,7 +270,7 @@
  "stats": {
   "clips": 35,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": "@ShouryaThakur_12"
+  "mostActive": "@Zahwab"
  },
  "clips": [
   {
@@ -686,6 +686,13 @@
   "weekStart": "2026-11-23",
   "top": [
    {
+    "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+    "name": "@Zahwab",
+    "points": 22,
+    "streams": 1,
+    "messages": 12
+   },
+   {
     "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
     "name": "@ShouryaThakur_12",
     "points": 17,
@@ -693,18 +700,11 @@
     "messages": 8
    },
    {
-    "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
-    "name": "@Zahwab",
-    "points": 15,
+    "channelId": "UCQVhaxslBUcWslyHgkzolCA",
+    "name": "@burhan493",
+    "points": 13,
     "streams": 1,
-    "messages": 5
-   },
-   {
-    "channelId": "UC6-HLKrBOInqejkaLZ-CUoA",
-    "name": "@SACHIN-gd6zy",
-    "points": 11,
-    "streams": 1,
-    "messages": 1
+    "messages": 4
    }
   ]
  },
@@ -761,7 +761,7 @@
     {
      "name": "@burhan493",
      "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-     "total": 245
+     "total": 248
     },
     {
      "name": "@Kunal_Luthra",
