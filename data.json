@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T12:39:37.005Z",
+ "updatedAt": "2026-11-22T12:57:03.521Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,9 @@
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
     "name": "@burhan493",
-    "points": 95,
-    "streams": 3,
-    "messages": 77
+    "points": 110,
+    "streams": 4,
+    "messages": 84
    },
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
@@ -702,9 +702,9 @@
    {
     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
     "name": "@gurimmureapah",
-    "points": 42,
-    "streams": 2,
-    "messages": 33
+    "points": 54,
+    "streams": 3,
+    "messages": 35
    }
   ]
  },
@@ -761,12 +761,12 @@
     {
      "name": "@burhan493",
      "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-     "total": 177
+     "total": 192
     },
     {
-     "name": "@Kunal_Luthra",
-     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 165
+     "name": "@gurimmureapah",
+     "channelId": "UCYv0cFxebCgV1iP6RbcN6nQ",
+     "total": 167
     }
    ]
   },
