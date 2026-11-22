@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T18:34:42.318Z",
+ "updatedAt": "2026-11-22T18:50:57.064Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,16 @@
    {
     "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
     "name": "@ShouryaThakur_12",
-    "points": 13,
+    "points": 16,
     "streams": 1,
-    "messages": 4
+    "messages": 7
+   },
+   {
+    "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
+    "name": "@Zahwab",
+    "points": 11,
+    "streams": 1,
+    "messages": 1
    }
   ]
  },
