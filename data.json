@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T21:39:48.246Z",
+ "updatedAt": "2026-11-22T21:45:52.369Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,9 +688,16 @@
    {
     "channelId": "UCWFl1PtfkzUp16Gxx5qULnw",
     "name": "@PREETISHDWIVEDI",
-    "points": 76,
+    "points": 79,
     "streams": 1,
-    "messages": 91
+    "messages": 94
+   },
+   {
+    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+    "name": "@Kunal_Luthra",
+    "points": 63,
+    "streams": 1,
+    "messages": 98
    },
    {
     "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
@@ -698,13 +705,6 @@
     "points": 61,
     "streams": 1,
     "messages": 59
-   },
-   {
-    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-    "name": "@Kunal_Luthra",
-    "points": 59,
-    "streams": 1,
-    "messages": 91
    }
   ]
  },
@@ -750,18 +750,18 @@
    "month": "2026-11",
    "inProgress": true,
    "winner": {
-    "name": "@Madhav_Khanna",
-    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 253,
+    "name": "@Kunal_Luthra",
+    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+    "total": 255,
     "clipPoints": 0,
-    "activityPoints": 253,
+    "activityPoints": 255,
     "clips": 0
    },
    "runnersUp": [
     {
-     "name": "@Kunal_Luthra",
-     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 251
+     "name": "@Madhav_Khanna",
+     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+     "total": 253
     },
     {
      "name": "@burhan493",
