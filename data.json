@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T18:23:27.975Z",
+ "updatedAt": "2026-11-22T18:34:42.318Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -270,7 +270,7 @@
  "stats": {
   "clips": 35,
   "topClipper": "@Madhav_Khanna",
-  "mostActive": "@burhan493"
+  "mostActive": "@ShouryaThakur_12"
  },
  "clips": [
   {
@@ -683,28 +683,14 @@
   }
  ],
  "active": {
-  "weekStart": "2026-11-16",
+  "weekStart": "2026-11-23",
   "top": [
    {
-    "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-    "name": "@burhan493",
-    "points": 163,
-    "streams": 4,
-    "messages": 159
-   },
-   {
-    "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-    "name": "@Kunal_Luthra",
-    "points": 125,
-    "streams": 4,
-    "messages": 144
-   },
-   {
-    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "name": "@Madhav_Khanna",
-    "points": 64,
-    "streams": 2,
-    "messages": 54
+    "channelId": "UCykVleA0UcHxvDRP09nMZ8Q",
+    "name": "@ShouryaThakur_12",
+    "points": 13,
+    "streams": 1,
+    "messages": 4
    }
   ]
  },
@@ -766,7 +752,7 @@
     {
      "name": "@Kunal_Luthra",
      "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 199
+     "total": 202
     }
    ]
   },
