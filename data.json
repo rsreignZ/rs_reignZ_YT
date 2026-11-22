@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-22T21:28:53.910Z",
+ "updatedAt": "2026-11-22T21:39:48.246Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -688,23 +688,23 @@
    {
     "channelId": "UCWFl1PtfkzUp16Gxx5qULnw",
     "name": "@PREETISHDWIVEDI",
-    "points": 69,
+    "points": 76,
     "streams": 1,
-    "messages": 81
+    "messages": 91
    },
    {
     "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
     "name": "@Zahwab",
-    "points": 52,
+    "points": 61,
     "streams": 1,
-    "messages": 47
+    "messages": 59
    },
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
     "name": "@Kunal_Luthra",
-    "points": 49,
+    "points": 59,
     "streams": 1,
-    "messages": 69
+    "messages": 91
    }
   ]
  },
@@ -759,14 +759,14 @@
    },
    "runnersUp": [
     {
+     "name": "@Kunal_Luthra",
+     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
+     "total": 251
+    },
+    {
      "name": "@burhan493",
      "channelId": "UCQVhaxslBUcWslyHgkzolCA",
      "total": 248
-    },
-    {
-     "name": "@Kunal_Luthra",
-     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 241
     }
    ]
   },
