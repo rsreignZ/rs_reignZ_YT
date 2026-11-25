@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-25T16:49:11.452Z",
+ "updatedAt": "2026-11-25T16:56:09.129Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -268,7 +268,7 @@
   }
  ],
  "stats": {
-  "clips": 35,
+  "clips": 36,
   "topClipper": "@Madhav_Khanna",
   "mostActive": "@Zahwab"
  },
@@ -688,9 +688,9 @@
    {
     "channelId": "UCB6R4QiAv5CXUaOPxjwbW7w",
     "name": "@Zahwab",
-    "points": 109,
+    "points": 114,
     "streams": 4,
-    "messages": 82
+    "messages": 87
    },
    {
     "channelId": "UCWFl1PtfkzUp16Gxx5qULnw",
@@ -713,8 +713,8 @@
    "rank": 1,
    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
    "name": "@Madhav_Khanna",
-   "clips": 20,
-   "score": 2000
+   "clips": 21,
+   "score": 2100
   },
   {
    "rank": 2,
@@ -750,18 +750,18 @@
    "month": "2026-11",
    "inProgress": true,
    "winner": {
-    "name": "@burhan493",
-    "channelId": "UCQVhaxslBUcWslyHgkzolCA",
-    "total": 305,
-    "clipPoints": 0,
-    "activityPoints": 305,
-    "clips": 0
+    "name": "@Madhav_Khanna",
+    "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
+    "total": 398,
+    "clipPoints": 100,
+    "activityPoints": 298,
+    "clips": 1
    },
    "runnersUp": [
     {
-     "name": "@Madhav_Khanna",
-     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-     "total": 283
+     "name": "@burhan493",
+     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
+     "total": 305
     },
     {
      "name": "@Kunal_Luthra",
