@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-25T16:56:09.129Z",
+ "updatedAt": "2026-11-25T16:58:14.219Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -273,6 +273,18 @@
   "mostActive": "@Zahwab"
  },
  "clips": [
+  {
+   "id": "c5e0878b-9b4",
+   "title": "hassi_mazzak",
+   "seconds": 67,
+   "by": "@Madhav_Khanna",
+   "byChannelId": "UCjyv9tbiagUMAYhIXQb-29w",
+   "createdAt": "2026-11-25T16:55:56.024Z",
+   "vertical": true,
+   "embed": "https://drive.google.com/file/d/1bTjugjbgxiAYgWFepj3hBf1UgfiUhZz2/preview",
+   "download": "https://drive.usercontent.google.com/download?id=1bTjugjbgxiAYgWFepj3hBf1UgfiUhZz2&export=download",
+   "thumb": "thumbs/c5e0878b-9b4.jpg"
+  },
   {
    "id": "2c2e4370-49f",
    "title": "death loop",
@@ -752,9 +764,9 @@
    "winner": {
     "name": "@Madhav_Khanna",
     "channelId": "UCjyv9tbiagUMAYhIXQb-29w",
-    "total": 398,
+    "total": 399,
     "clipPoints": 100,
-    "activityPoints": 298,
+    "activityPoints": 299,
     "clips": 1
    },
    "runnersUp": [
