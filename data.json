@@ -5,7 +5,7 @@
   "name": "rs_reignZ",
   "url": "https://www.youtube.com/channel/UCT7SzDcg7JVxFKMWLf-pi_Q"
  },
- "updatedAt": "2026-11-26T21:31:37.648Z",
+ "updatedAt": "2026-11-27T16:43:18.603Z",
  "timeZone": "Asia/Calcutta",
  "pointsPerClip": 100,
  "activityRules": {
@@ -712,9 +712,9 @@
    {
     "channelId": "UCH4iS3WPMPWsnZNAOmf8Rwg",
     "name": "@cractooth",
-    "points": 248,
-    "streams": 3,
-    "messages": 383
+    "points": 260,
+    "streams": 4,
+    "messages": 388
    },
    {
     "channelId": "UCQVhaxslBUcWslyHgkzolCA",
@@ -726,9 +726,9 @@
    {
     "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
     "name": "@Kunal_Luthra",
-    "points": 146,
-    "streams": 4,
-    "messages": 187
+    "points": 160,
+    "streams": 5,
+    "messages": 192
    }
   ]
  },
@@ -790,7 +790,7 @@
     {
      "name": "@Kunal_Luthra",
      "channelId": "UCbRwp9AAIMBxBMFKywpAQbw",
-     "total": 338
+     "total": 352
     }
    ]
   },
